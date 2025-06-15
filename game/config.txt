@@ -1,6 +1,6 @@
 Game_name:Soyo-Fairy-Tales;
 Game_key:e0c5d90e5639228;
 Title_img:kv.调色.DL.jpg;
-Title_bgm:world-of-illusion-154537.mp3;
+Title_bgm:00序章/world-of-illusion-154537.mp3;
 Textbox_theme:imss;
 Game_Logo:workshop.jpg;
