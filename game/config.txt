@@ -4,3 +4,6 @@ Title_img:kv.调色.DL.jpg;
 Title_bgm:00序章/world-of-illusion-154537.mp3;
 Textbox_theme:imss;
 Game_Logo:workshop.jpg;
+Package_name:;
+Description:长崎素世中心同人游戏;
+Enable_Appreciation:true;

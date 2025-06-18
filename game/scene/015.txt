@@ -216,7 +216,7 @@ bgm: -enter=2000;
 changeBg:间章/bg018b.jpg -next;
 changeFigure:A2.png -right -id=A2 -transform={"brightness":1,"position":{"y":80}} -next;
 setTransform:{"brightness":1} -target=bg-main -duration=500 -next;
-bgm:00序章/funk-background-royalty-free-music-188685.mp3;
+bgm:00序章/funk-background-royalty-free-music-188685.mp3 -unlockname=Funk-Background-Royalty-Free-Music;
 playEffect:01/火苗3s.mp3 -next;
 :素世带着小睦冲进灌木丛，却看到爱音正坐在一堆比她还高的柴火堆里，眼睛瞪得滚圆，左手还举着半根冒烟的蓝色树枝，右手慌乱地拍打着刘海——;
 几缕焦黑的发梢正冒着细烟，空气中弥漫着烧焦羽毛般的气味。;

@@ -7,10 +7,12 @@ playEffect:00序章/science_fiction_laser_hypnotic_paralysing_beam.mp3 -volume=3
 ？？？:……故事生成完成…… -fontSize=default;
 playEffect: -id=电流1 -next;;
 长崎素世:（好像有谁一直在耳边说话，但是意识昏昏沉沉的，完全无法理解耳边的话语。） -fontSize=default;
+setTransform:{"brightness":0} -target=bg-main -duration=500 -next;
 ;做个序章开启的特效
 :;
-changeBg:00序章/bg00526晴天.png;
-bgm:00序章/gentle-fields-194622.mp3 -volume=60 -enter=2000 -unlockname=gentle-fields;
+changeBg:00序章/bg00526晴天.png -next;
+setTransform:{"brightness":1} -target=bg-main -duration=500 -next;
+bgm:00序章/gentle-fields-194622.mp3 -volume=60 -enter=2000 -unlockname=Gentle-Fields;
 :…… -fontSize=default;
 changeFigure:S1_normal.png -id=S1 -transform={"position":{"y":80}} -next;
 长崎素世:唔…… -fontSize=default ;
@@ -232,7 +234,7 @@ changeFigure:none -id=A1 -next;
 :;
 bgm: -enter=500;
 changeBg:00序章/bg00349街道.png;
-bgm:00序章/inspiring-folk-157753.mp3 -volume=50 -enter=500 -unlockname=inspiring-folk;
+bgm:00序章/inspiring-folk-157753.mp3 -volume=50 -enter=500 -unlockname=Inspiring-Folk;
 :等两人走过去，发现爱音站在一家游戏店前，正盯着外边放着的广告牌看。 -fontSize=default -id;
 changeFigure:A1_normal.png  -right -id=A1 -transform={"position":{"x":-150,"y":80}} -next;
 ;广告电视大屏幕
@@ -408,7 +410,6 @@ setTransform:{"brightness":1,"position":{"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":0.4,"position":{"y":80}} -target=S1 -duration=0 -next;
 playEffect:00序章/zapsplat_foley_tree_branch_thick_healthy_leaves_movement_rustle_short_002_66707.mp3 -volume=60;
 :草丛里传来窸窸窣窣的声音，在三人紧张的注视下，一个戴着大到夸张的巫师帽的家伙从树后转出。 -fontSize=default;
-;声音
 setTransform:{"brightness":1,"position":{"y":80}} -target=S1 -duration=0 -next;
 长崎素世:……;
 changeFigure:none -id=S1 -next;
@@ -1283,13 +1284,13 @@ setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:唉……;
 长崎素世:天黑之前能出发吗……;
 :总之，这就是我们冒险的开始，简直一团糟。;
-choose:继续冒险:label:label_new|返回标题:label_end;
+choose:继续冒险:label_new|返回标题:label_end;
+label:label_end;
+end;
 label:label_new;
 bgm:none -enter=2000 -next;
 changeFigure:none -id=A2 -next;
 changeFigure:none -id=M2 -next;
 changeFigure:none -id=S2 -next;
 setTransform:{"brightness":0} -target=bg-main -duration=500 -next
-changeScene:01.txt
-label:label_end;
-end;
+changeScene:01.txt ;

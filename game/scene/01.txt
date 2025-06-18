@@ -590,11 +590,10 @@ setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":0.4,"position":{"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:诶，什么东……;
-bgm:01/galactic-frenzy-343834.mp3 -volume=60 -enter=500 -next;
+bgm:01/galactic-frenzy-343834.mp3 -volume=60 -enter=500 -unlockname=Galactic-Frenzy;
 :一只巨大的巧克力蝙蝠从棉花糖里面扑出，尖锐的糖果翅膀直直朝爱音袭来！;
 ;蝙蝠立绘、动效
 playEffect:01/蝙蝠声.mp3 -volume=70 -next;;
-;音效切换
 setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:小心！;
@@ -705,7 +704,7 @@ setTransform:{"brightness":0.4,"position":{"y":80}} -target=M2 -duration=0 -next
 bgm:-enter=500;
 playEffect:01序章/zapsplat_foley_tree_branch_thick_healthy_leaves_movement_rustle_short_002_66707.mp3 -volume=60;
 :"咔嚓咔嚓——";
-bgm:01/futurex27s-promise-343833.mp3 -volume=60 -enter=500;
+bgm:01/futurex27s-promise-343833.mp3 -volume=60 -enter=500 -unlockname=Futurex27s-Promise;
 :周围的糖果树突然剧烈摇晃起来，太妃糖组成的枝干相互碰撞，发出硬糖碎裂的脆响，棉花糖树团不断摇晃，软糖果实互相碰撞发出了"咕啾咕啾"的声音。;
 playEffect:01/horror_monster1.mp3 -volume=60;
 :下一刻，在冒险小队们目瞪口呆的眼神中，数十只糖果生物从树上蜂拥而下。;
@@ -842,7 +841,6 @@ setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 :她举起发红的手腕，上面还残留着糖果的碎屑。;
 千早爱音:嘶——好痛，不过比起被吃掉已经好多了！;
 bgm:01/soft-background-piano-285589.G.mp3 -volume=60 -enter=0 -unlockname=Soft-Background-Piano;
-;战斗后改成舒缓钢琴bgm
 setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 :长崎素世跪坐在地，看着自己的双手，不断发抖。;
@@ -1036,7 +1034,7 @@ setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:嗯！那就拜托Soyorin啦！;
 bgm:-enter=500;
 :那座蜂蜜瀑布就在不远处，三人很快就到达了附近。;
-bgm:01/telling-the-story-150614.mp3 -volume=60 -enter=500;
+bgm:01/telling-the-story-150614.mp3 -volume=60 -enter=500 -unlockname=Telling-the-Story;
 千早爱音:哇……;
 setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
@@ -1171,7 +1169,6 @@ setTransform:{"brightness":0.4,"position":{"y":80}} -target=S2 -duration=0 -next
 playEffect:01/岩浆沸腾5.mp3 -volume=100 -id=boil;
 :果然，池子里还在不停冒出糖手，更可怕的是，整个蜜池都开始隆起，一个由蜜浆凝聚而成的庞然大物正在成型。;
 playEffect:none -volume=100 -id=boil;
-;长流
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:这么拖下去，要是跟那个大家伙打起来，我们可不一定打得过……;
 setTransform:{"brightness":0.4,"position":{"y":80}} -target=S2 -duration=0 -next;
@@ -1219,7 +1216,6 @@ setTransform:{"brightness":0.4,"position":{"y":80}} -target=M2 -duration=0 -next
 setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
 playEffect:01/zapsplat_horror_monster_very_aggressive_loud_scary_roar_scream_growl_004_73685.mp3;
 :三人飞奔而上，身后的冰阶不断崩塌。在三人即将接近瀑布的时候，一旁的蜜浆巨人终于挣脱了身上的冰块，缓缓站起身来，伴随着震耳欲聋的怒吼，蜜浆巨人朝素世三人伸出了巨手。;
-;这个不改
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:再跑快点！要被追上了！;
 setTransform:{"brightness":0.4,"position":{"y":80}} -target=S2 -duration=0 -next;
@@ -1236,7 +1232,6 @@ setTransform:{"brightness":0.4,"position":{"y":80}} -target=M2 -duration=0 -next
 :紧接着，腰间的提灯爆发出了耀眼的绿光， -notend;
 playEffect:01/钟声.mp3 -volume=60;
 瀑布上的通道再次被开启。 -concat;
-;钟声
 :在绿光的包裹下，三人如离弦之箭般冲向了大门，随后纵身一跃，在即将被巨手抓住的瞬间——;
 bgm:-enter=500;
 playEffect:01/woosh.mp3 -volume=60;
@@ -1248,7 +1243,7 @@ setTransform:{"brightness":1} -target=bg-main -duration=0 -next;
 playEffect:01/溶洞回声.jpg -volume=100 -next;
 :在千钧一发之际，小睦带着大家跃进了通道内，身后的瀑布重新闭合，将追击阻挡在了外面。;
 :终于安全了，爱音瘫坐在地，素世也靠着墙喘息，只有若叶睦低头，怔怔地看着提灯。;
-bgm:01/my-little-garden-of-eden-112845.mp3 -volume=60 -enter=500;
+bgm:01/my-little-garden-of-eden-112845.mp3 -volume=60 -enter=500 -unlockname=My-Little-Garden-of-Eden;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:哈啊……哈啊……;
 感觉比刚才在森林里被围攻还要刺激……;
@@ -1808,7 +1803,7 @@ bgm:-enter=500;
 changeFigure:Witch/剪影.png -id=W0 -transform={"brightness":1,"position":{"y":80}} -next;
 ？？:在人家的门前聊得这么开心吗？真好呢，也带我一个怎么样？;
 changeFigure: -id=W0 -next;
-bgm:01/witch-9208.mp3 -volume=60 -enter=500;
+bgm:01/witch-9208.mp3 -volume=60 -enter=500 -unlockname=Witch;
 playEffect:01/再也不敢无视礼炮了.mp3 -volume=60;
 :突然间，整间小屋的灯光突然大亮，门廊上的糖果彩灯依次点亮，欢快的八音盒旋律也不知在何处奏响。;
 ;灯光特效
@@ -2326,7 +2321,7 @@ setTransform:{"brightness":0} -target=bg-main -duration=0 -next;
 :（爱音的精神世界） -fontSize=default;
 changeBg:01糖与魔女/bg00877.png -next;
 setTransform:{"brightness":1} -target=bg-main -duration=0 -next;
-bgm:01/piano-solo-for-love-cinematic-loop-333809.mp3 -volume=60 -enter=0;
+bgm:01/piano-solo-for-love-cinematic-loop-333809.mp3 -volume=60 -enter=0 -unlockname=Piano-Solo-for-Love;
 changeFigure:A2.png -right -id=A2 -transform={"brightness":1,"position":{"x":-700,"y":80}} -next;
 千早爱音:放我出去！;
 千早爱音:有——人——吗——！;
@@ -2334,7 +2329,6 @@ changeFigure:A2.png -right -id=A2 -transform={"brightness":1,"position":{"x":-70
 :爱音也不知道自己什么时候来到了这里，她被关在一个监牢里，牢笼外是黑漆漆的一片，仿佛这个世界只剩下她自己了一样。;
 千早爱音:真是的，到底发生了什么，不知道Soyorin她们怎么样了……;
 playEffect:01/抱膝、衣料摩擦.mp3 -volume=80 -next;
-;抱膝音效
 :爱音沮丧地抱膝坐下。这时，魔女的声音突然回荡在空间中。;
 setTransform:{"brightness":0.4,"position":{"x":-700,"y":80}} -target=A2 -duration=0 -next;
 魔女的声音:为什么要出去呢？留在这里不好吗？;
@@ -2342,7 +2336,6 @@ setTransform:{"brightness":1,"position":{"x":-700,"y":80}} -target=A2 -duration=
 千早爱音:一点也不好！Soyorin和小睦都还在等我呢！我才不要留在这里！;
 千早爱音:可恶……你不放我出去的话，那我就把这个地方拆了再出去！;
 playEffect:01/捶墙.mp3 -volume=100 -id=hit;
-;捶打声音、砰砰
 :爱音站起来，用力地捶打牢笼，但不管怎么努力，铁栏都不为所动。;
 setTransform:{"brightness":0.4,"position":{"x":-700,"y":80}} -target=A2 -duration=0 -next;
 playEffect: -id=hit;
@@ -2397,8 +2390,8 @@ playEffect:01/丝线缠绕.mp3 -volume=60;
 setTransform:{"brightness":0.4,"position":{"x":-700,"y":80}} -target=A2 -duration=0 -next;
 changeFigure:none -id=A2 -next;
 bgm:-enter=2000;
-……;
-:;背景转回来特效
+:……;
+;背景转回来特效
 setTransform:{"brightness":0} -target=bg-main -duration=0;
 changeBg:01糖与魔女/bg00318魔女小屋3.png -next;
 setTransform:{"brightness":1} -target=bg-main -duration=0 -next;
@@ -2468,9 +2461,7 @@ setTransform:{"brightness":0.4,"position":{"y":80}} -target=M2 -duration=0 -next
 :没等小睦的话说完，素世与小睦就闻到了一股甜腻的香气，素世和小睦的眼神也随之涣散，泛起了粉色的微光。;
 changeFigure:none -id=M2 -next;
 changeFigure:none -id=W1 -next;
-;
 魔女的声音:拿着钥匙，离开这里吧。;
-;
 魔女的声音:不用担心爱音，她留在这里，我保证她会很安全的。;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:你在……说什么乱七八糟的话……;
@@ -2507,7 +2498,6 @@ bgm:-enter=500 -next;
 setTransform:{"brightness":0} -target=bg-main -duration=0 -next;
 changeBg:01糖与魔女/bg029a.jpg;
 setTransform:{"brightness":1} -target=bg-main -duration=0 -next;
-bgm:-enter=500 -next;
 ;屏幕闪烁和bgm停止、白屏
 changeFigure:A2.png -right -id=A2 -transform={"brightness":1,"position":{"x":-700,"y":80}} -next;
 千早爱音:Soyorin~终于到魔王城啦！ -fontSize=default;
@@ -2601,7 +2591,6 @@ setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=F -fontsize= -
 changeFigure:none -id=F -next;
 changeFigure:none -id=M2 -next; 
 changeBg:01糖与魔女/bg033a.jpg;
-;闪回瀑布
 changeBg:01序章/bg00732意识空白.png;
 :……;
 changeFigure:Fairy.png -id=F -transform={"brightness":0.4,"position":{"x":400,"y":80}} -next;
@@ -2696,7 +2685,7 @@ changeFigure:none -id=M2 -next;
 setTransform:{"brightness":0} -target=bg-main -duration=500 -next;
 bgm:-enter=2000;
 :（素世的内心世界） -fontSize=default;
-changeBg:01序章/bg00732意识空白.png;
+changeBg:01序章/bg00732意识空白.png -next;;
 setTransform:{"brightness":1} -target=bg-main -duration=500 -next;
 ;花屏（一黑一白、车站
 bgm:01/piano-solo-for-love-cinematic-loop-333809.mp3 -volume=60;
@@ -2806,7 +2795,6 @@ changeFigure:M2.png -left -id=M2 -transform={"brightness":1,"position":{"y":80}}
 setTransform:{"brightness":0.4,"position":{"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 playEffect:01/丢匣子.mp3 -volume=70 -next;
-;匣子音效
 :素世将眼前的匣子抓起，朝魔女丢了回去， -notend;
 playEffect:01/法力凝结.mp3 -volume=60 -next;
 法杖直指魔女。 -concat;
@@ -2848,7 +2836,6 @@ setTransform:{"brightness":1,"position":{"x":-700,"y":80}} -target=A2 -duration=
 setTransform:{"brightness":0.4,"position":{"x":-700,"y":80}} -target=A2 -duration=0 -next;
 playEffect:01/火苗5s.mp3 -volume=60;
 :身上缠绕的金色丝线开始燃起青色的火焰。;
-;舒缓bgm
 setTransform:{"brightness":1,"position":{"x":-700,"y":80}} -target=A2 -duration=0 -next;
 千早爱音:约定……;
 千早爱音:对了……我们约好的！;
@@ -2992,7 +2979,6 @@ changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"y":80}} -next
 setTransform:{"brightness":0.4,"position":{"y":80}} -target=S2 -duration=0 -next;
 playEffect:01/结冰.mp3 -volume=60;
 :冒着寒气的冰蓝色丝线顺着地板回到了法杖上。;
-;烟雾音效
 changeFigure:none -id=S2 -next;
 changeFigure:Witch/魔女哀.png -id=W5 -transform={"brightness":1,"position":{"y":80}} -next;
 :魔女愣神地看着破碎的项链，接着，破碎的项链中冒出了大量的烟雾 -notend;
@@ -3096,7 +3082,7 @@ setTransform:{"alpha":0,"position":{"y":80}} -target=S2 -duration=500 -next;
 setTransform:{"brightness":1,"position":{"x":-700,"y":80}} -target=A2 -duration=0 -next;
 :突然，一阵耀眼的光芒在手中爆发，爱音的视野被白光淹没，等实现恢复时，她发现自己来到了一个陌生的房间。;
 changeBg:01糖与魔女/bg01014.png;
-bgm:01/cloud-of-sorrow-13984.mp3;
+bgm:01/cloud-of-sorrow-13984.mp3 -unlockname=Cloud-of-Sorrow;
 小女孩:丑死了，我才不要这种丑八怪！;
 playEffect:01/砸门.mp3 -volume=60;
 :看不清脸的小女孩将手中的玩偶重重地丢进了垃圾桶，随后是房门摔上的巨响。;
@@ -3488,7 +3474,7 @@ setTransform:{"brightness":0} -target=bg-main -duration=500 -next;
 :;
 changeBg:01糖与魔女/bg00314魔女小屋1.png;
 setTransform:{"brightness":1} -target=bg-main -duration=500 -next;
-bgm:01/fionax27s-fairy-song-152743.mp3 -volume=60;
+bgm:01/fionax27s-fairy-song-152743.mp3 -volume=60 -unlockname=Fionax27s-Fairy-Song;
 :随着木门关上，三人的脚步声渐渐远去，屋内重新回归宁静， -notend;
 playEffect:01/火苗5s.mp3 -next;
 只有壁炉里的火焰偶尔还会"噼啪"作响。 -concat;
@@ -3520,9 +3506,10 @@ changeFigure:none -id=M2 -next;
 changeFigure:none -id=A2 -next;
 changeFigure:none -id=S2 -next;
 :在魔女也未曾注意的围巾内层，金色的丝线缠结成"Soyorin"的名字。 -when=A1==true;
-choose:继续冒险:label:label_new01|返回标题:label_end01;
+:;
+choose:继续冒险:label_new01|返回标题:label_end01;
+label:label_end01;
+end;
 label:label_new01;
 bgm:-enter=500;
 changeScene:015.txt ;
-label:label_end01;
-end;
