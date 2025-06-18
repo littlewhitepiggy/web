@@ -667,7 +667,7 @@ bgm: -enter=2000;
 changeBg:间章/bg01062.png -next;
 setTransform:{"brightness":1} -target=bg-main -duration=500;
 changeFigure:S1_normal.png  -id=S1 -transform={"brightness":1,"position":{"y":80}} -next;
-bgm:02/piano-solo-for-love-cinematic-loop-333809.mp3 -volume=70;
+bgm:01/piano-solo-for-love-cinematic-loop-333809.mp3 -volume=70;
 长崎素世:……
 长崎素世:这里是……？
 playEffect:015/电子钟.mp3 -volume=60 -next;
@@ -687,8 +687,9 @@ playEffect:015/短信通知.mp3 -next;
 setTransform:{"brightness":0.4,"position":{"y":80}} -target=S1 -duration=0 -next;
 "椎名立希":爱音说你们在森林里遇到了会点火的树枝？要是再用这种借口逃训练，下次我就让你们加倍地练回来！;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S1 -duration=0 -next;
-长崎素世:难道，我们已经回来了吗？
-长崎素世:为什么一点关于我们回来的记忆都没有？
+长崎素世:难道，我们已经回来了吗？;
+长崎素世:为什么一点关于我们回来的记忆都没有？;
+changeBg:间章/bgr010w.bmp -next;
 playEffect:015/清洗.mp3 -next;
 :记忆与现实的严重不符合让素世有些喘不过气，她冲进洗手间洗脸，希望能借此让自己好受一些。;
 长崎素世:（……不管怎么样，只要能回来就是好的。）
