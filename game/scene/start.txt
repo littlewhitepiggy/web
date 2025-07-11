@@ -310,11 +310,17 @@ setTransform:{"brightness":0.4,"position":{"y":80}} -target=A1 -duration=0 -next
 setTransform:{"brightness":1,"position":{"y":80}} -target=S1 -duration=0 -next;
 长崎素世:是吗，总觉得在哪见过这个花纹……;
 长崎素世:（对了，是那个——）;
+changeFigure:none -id=A1 -next;
+changeFigure:none -id=M1 -next;
+changeFigure:none -id=S1 -next;
+changeFigure:小物件/usb.png -id=usb -next;
 :素世从口袋里拿出了钥匙，钥匙圈上挂着一个像是u盘的挂饰，u盘背面上刻着跟游戏机上相似的图案。;
 bgm: -enter=2000;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=S1 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=A1 -duration=0 -next;
-千早爱音:诶，什么一样？;
+changeFigure:none -id=usb -next;
+changeFigure:A1_normal.png -right -id=A1 -transform={"brightness":1,"position":{"y":80}} -next;
+changeFigure:M1_normal.png -left -id=M1 -transform={"brightness":0.4,"position":{"y":80}} -next;
+changeFigure:S1_normal.png -id=S1 -transform={"brightness":0.4,"position":{"y":80}} -next;
+千早爱音:诶，在哪？;
 playEffect:00序章/zapsplat_vehicles_car_door_open_beep_loop_2005_111843.mp3 -volume=70 -id=u盘叫 -next;;
 setTransform:{"brightness":0.4,"position":{"y":80}} -target=A1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S1 -duration=0 -next;
@@ -535,8 +541,15 @@ changeFigure:none -id=A1 -next;
 changeFigure:kami.png -id=K1 -transform={"position":{"y":80}} -next;
 星之贤者（？）:我是认真的[ですわ]（Desuwa）！ -fontSize=default;
 星之贤者（？）:总，总之，想要回到原来的世界，就只能去打倒魔王了，这是给勇者们准备的装备和地图，吾还有急事就先走了[ですわ]（Desuwa）—— -fontSize=default;
-setTransform:{"position":{"x":50,"y":80},"alpha":0,"blur":5} -target=K1 -duration=300;
+setTransform:{"position":{"x":50,"y":80},"alpha":0,"blur":5} -target=K1 -duration=300 -next;
 changeFigure:none -id=K1 -next;
+changeFigure:小物件/宝剑.png -right -id=sword -next;
+changeFigure:小物件/法杖.png -id=wand -next;
+changeFigure:小物件/植物.png -left -id=plant -next;
+:“星之贤者”留下了三个包裹。;
+changeFigure:none -id=sword -next;
+changeFigure:none -id=wand -next;
+changeFigure:none -id=plant -next;
 changeFigure:S1_normal.png -id=S1 -transform={"position":{"y":80}} -next;
 长崎素世:等等——;
 setTransform:{"brightness":0.4,"position":{"y":80}} -target=S1 -duration=0 -next;
@@ -686,7 +699,7 @@ setTransform:{"brightness":1,"position":{"y":80}} -target=S2j -duration=0 -next;
 长崎素世:！小，小睦？！
 setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
-:小睦的掌心托着一盏泛着暖光的提灯，舒缓的绿光流淌而出。
+:小睦提着一盏泛着暖光的提灯，舒缓的绿光流淌而出。
 :她仰头望着素世，指尖还停留在耳尖的绒毛上，眼底映着提灯的光晕。
 若叶睦:软软的。
 setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
@@ -699,7 +712,7 @@ changeFigure:none -id=A2k -next;
 changeFigure:none -id=M2 -next;
 changeFigure:none -id=S2j -next;
 :;
-changeBg:00序章/异世界装束.jpg -unlockname=异世界装束;
+changeBg:00序章/异世界装束.jpg -unlockname=异世界装束 -next;
 unlockCg:00序章/异世界装束.jpg -name=异世界装束;
 setTransform:{"brightness":1} -target=bg-main -duration=0;
 长崎素世:我说……你有点兴奋过头了吧。;
@@ -743,7 +756,7 @@ setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A1 -duration=
 千早爱音:哦……;
 setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-长崎素世:一兴奋起来就容易嘚瑟到天上去，还是冷静一点比较好哦。;
+长崎素世:一兴奋起来就容易得意过头，还是冷静一点比较好哦。;
 setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A1 -duration=0 -next;
 千早爱音:哪有像Soyorin说的那么笨！我明明一直都很冷静的好嘛，我妈妈还夸我是知性美女呢！;
@@ -818,7 +831,7 @@ changeFigure:S2.png -id=S2 -transform={"position":{"x":-400,"y":80}} -next;
 长崎素世:（让不会魔法的人担任魔法师……感觉还不如给我一把剑实用。）;
 setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2k -duration=0 -next;
-:下一秒，爱音突然扑了过来;
+:下一秒，爱音突然扑了过来。;
 changeFigure:none -id=A2k -next;
 changeFigure:A2脸红.png -right -id=A2l -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 千早爱音:诶，开玩笑的吧？这也太好看了Soyorin！！！;
@@ -977,7 +990,7 @@ changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"y":80}
 长崎素世:！小、小睦？！;
 setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
-:小睦的掌心托着一盏泛着暖光的提灯，舒缓的绿光流淌而出。
+:小睦提着一盏泛着暖光的提灯，舒缓的绿光流淌而出。
 :她仰头望着素世，指尖还停留在耳尖的绒毛上，眼底映着提灯的光晕。
 若叶睦:软软的。
 setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
@@ -992,14 +1005,14 @@ changeFigure:none -id=A2m -next;
 changeFigure:none -id=M2 -next;
 changeFigure:none -id=S2j -next;
 :;
-changeBg:00序章/异世界装束.jpg -unlockname=异世界装束;
+changeBg:00序章/异世界装束.jpg -unlockname=异世界装束 -next;
 unlockCg:00序章/异世界装束.jpg -name=异世界装束;
-setTransform:{"brightness":1} -target=bg-main -duration=0;
+setTransform:{"brightness":1} -target=bg-main -duration=0 ;
 长崎素世:我说……你有点兴奋过头了吧。;
 千早爱音:哪有，明明是小睦太可爱了……难道Soyorin不那么觉得吗？;
 若叶睦:（有些期待地看着）;
 长崎素世:……嗯。;
-长崎素世:这款裙子很适合小睦哦;
+长崎素世:这款裙子很适合小睦哦。;
 若叶睦:谢谢……;
 若叶睦:素世也很漂亮。;
 千早爱音:耳朵也很软~;
@@ -1072,7 +1085,7 @@ setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=S1 -duration
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 若叶睦:谢谢素世。;
 若叶睦:还有这个。;
-:小睦的掌心托着一盏泛着暖光的提灯，舒缓的绿光流淌而出。;
+:小睦提着一盏泛着暖光的提灯，舒缓的绿光流淌而出。;
 setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:很精致的提灯呢，看起来也是包裹里的东西。;
@@ -1305,12 +1318,12 @@ changeFigure:none -id=A2m -next;
 changeFigure:none -id=M2 -next;
 changeFigure:none -id=S2s -next;
 :;
-changeBg:00序章/异世界装束.jpg -unlockname=异世界装束;
+changeBg:00序章/异世界装束.jpg -unlockname=异世界装束 -next;
 unlockCg:00序章/异世界装束.jpg -name=异世界装束;
-setTransform:{"brightness":1} -target=bg-main -duration=0;
+setTransform:{"brightness":1} -target=bg-main -duration=0 ;
 长崎素世:我说……你有点兴奋过头了吧。;
 千早爱音:哪有，明明是小睦太可爱了！难道Soyorin不这么觉得吗？;
-长崎素世:（虽然我也这么觉得，但要是附和她的话，估计又要嘚瑟了。）;
+长崎素世:（虽然我也这么觉得，但要是附和她的话，估计又要得意了。）;
 长崎素世:（就当没听到……嗯？小睦？）;
 :察觉到自己的小拇指被人拉了一下，素世回过头，看到了小睦期待的眼神。;
 长崎素世:（……）;

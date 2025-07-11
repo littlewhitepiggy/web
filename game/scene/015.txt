@@ -4,7 +4,7 @@ changeBg:间章/bg023b.jpg -next;
 setTransform:{"brightness":1} -target=bg-main -duration=500 -next;
 :三人走出糖果峡谷的时候，已是黄昏时分。;
 :出了峡谷，眼前是一片幽静的森林。;
-:天边的云彩染上了淡淡的紫红色，夕阳的余晖渐渐被森林吞没，高大的树木在暮色中投下了长长的影子。;
+:天边的云彩染上淡淡的紫红色，夕阳的余晖渐渐被森林吞没，高大的树木在暮色中投下长长的影子。;
 changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 changeFigure:A2.png -right -id=A2 -transform={"brightness":0.4,"position":{"x":-150,"y":80}} -next;
 长崎素世:不知不觉已经快入夜了呢。;
@@ -128,7 +128,7 @@ setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2j -duration=0 -ne
 changeFigure:none -id=A2m -next;
 changeFigure:A2开朗笑2.png -right -id=A2k2 -transform={"brightness":1,"position":{"y":80}} -next;
 千早爱音:对哦。
-:爱音"咻"的一下从被窝里弹出来。;
+:爱音"咻"地一下从被窝里弹出来。;
 千早爱音:既然是我提议的，那我就去搜集柴火吧！Soyorin要和小睦等我回来哦！
 setTransform:{"position":{"x":50,"y":80},"alpha":0,"blur":5} -target=A2k2 -duration=300;
 changeFigure:none -id=A2 -next;
@@ -140,7 +140,7 @@ setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
 changeFigure:none -id=S2j -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"y":80}} -next;
-长崎素世:真是的，做事还是那么毛毛躁躁，一点记性都不长。
+长崎素世:……做事还是那么毛毛躁躁，也该吸取教训吧。
 长崎素世:小睦，我们也别闲着，清理一下周围吧。
 setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
@@ -161,7 +161,7 @@ setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2s -duratio
 changeFigure:none -id=S2 -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:害怕？难道是魔法植物吗？
-:素世也蹲下来查看，发现在绿光的笼罩下，这些荆棘全都缓缓将刺针收回，叶片上渗出了晶莹的露珠，如同在哭泣一般。;
+:素世也蹲下来查看，发现在绿光的笼罩下，这些荆棘全都缓缓将刺针收回，叶片上渗出晶莹的露珠，如同在哭泣一般。;
 长崎素世:是因为我刚才的魔法，以为我要把它们也铲除，所以才害怕的吗？
 changeFigure:none -id=S2j -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
@@ -321,8 +321,8 @@ setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"y":80}} -next;
-长崎素世:就是因为你拿太多了，所以才会看不见脚下，才会摔倒。;
-长崎素世:也不懂叫我们过来帮忙。;
+长崎素世:就是因为你拿太多了，都看不见脚下，所以才会摔倒。;
+长崎素世:也不懂得叫我们过来帮忙。;
 长崎素世:总之，快回去吧，再磨蹭下去就快天亮了。;
 setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
@@ -356,7 +356,7 @@ changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"y":80}
 setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:毕，毕竟Soyorin是魔法师嘛！万一火太大了，Soyorin一挥手就能把火堆冻起来了。
-:爱音躲到小睦身后，不知从哪掏出了一袋棉花糖。;
+:爱音躲到小睦身后，不知从哪掏出一袋棉花糖。;
 changeFigure:none -id=A2 -next;
 changeFigure:A2开朗笑2.png -right -id=A2k2 -transform={"brightness":1,"position":{"y":80}} -next;
 千早爱音:再说了，我可是有更重要的任务要做！;
@@ -389,7 +389,7 @@ changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"y":80}} -next
 changeFigure:A2.png -right -id=A2 -transform={"brightness":0.4,"position":{"y":80}} -next;
 changeFigure:M2.png -left -id=M2 -transform={"brightness":0.4,"position":{"y":80}} -next;
 playEffect:015/火苗燃起.mp3 -next;
-:素世无奈地摇摇头，将那根曾烧过爱音头发的蓝色树枝折断，幽蓝的火焰立刻跃上柴堆，却意外的安静温和，像被驯服的小精灵，安静地舔舐着枯枝。;
+:素世无奈地摇摇头，将那根曾烧过爱音头发的蓝色树枝折断，火焰立刻跃上柴堆，却意外地安静温和，像被驯服的小精灵，安静地舔舐着枯枝。;
 setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
 changeFigure:none -id=A2 -next;
 changeFigure:A2开朗笑2.png -right -id=A2k2 -transform={"brightness":1,"position":{"y":80}} -next;
@@ -401,12 +401,12 @@ setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"y":80}} -next;
-长崎素世:蓝色的篝火吗……
+长崎素世:篝火吗……;
 changeFigure:none -id=S2j -next;
 changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"y":80}} -next;
-长崎素世:感觉像是梦里才会有的东西。
+长崎素世:感觉像是梦里才会有的东西。;
 setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
-:幽蓝的火焰升腾起淡紫色的轻烟，意外的不呛，反而有种薄荷味的清香。;
+:火焰升腾起淡紫色的轻烟，意外地不呛，反而有种薄荷味的清香。;
 playEffect: -id=燃烧;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 :爱音欢呼着掏出三根细长的树枝分给其他两人，自己则是抱着棉花糖袋子蹲在火堆前，开始准备自己翘首以待的事。;
@@ -474,11 +474,11 @@ setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2kl -duration=0 -next;
 setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
-:雪白的棉花糖上逐渐泛起金黄色的光泽，当糖球表面冒出一层细密的焦糖气泡时，素世将棉花糖递给了爱音。;
+:雪白的棉花糖上逐渐泛起金黄色的光泽，当糖球表面冒出一层细密的焦糖气泡时，素世便将棉花糖递给爱音。;
 长崎素世:现在可以吃了，趁没烤糊之前。
 changeFigure:none -id=S2 -next;
 changeFigure:S2轻笑.png -id=S2q -transform={"brightness":1,"position":{"y":80}} -next;
-长崎素世:当然，如果你还想要吃你的焦香风味的话，你可以再烤一会。
+长崎素世:当然，如果你还想要吃你的焦香风味的话，可以再烤一会。
 changeFigure:none -id=S2q -next;
 changeFigure:S2.png -id=S2 -transform={"brightness":0.65,"position":{"y":80}} -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2kl -duration=0 -next;
@@ -507,11 +507,11 @@ setTransform:{"brightness":1,"position":{"y":80}} -target=A2k2 -duration=0 -next
 千早爱音:Soyorin好专业诶！居然烤得这么棒！
 setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
-长崎素世:没什么，我只是普通的会做而已，并不是特别擅长烤这个。
+长崎素世:没什么，我只是普通地会做而已，并不是特别擅长烤这个。
 长崎素世:我以前有跟妈妈一起去过露营，是那个时候妈妈教我的。
 changeFigure:none -id=S2 -next;
 changeFigure:S2笑.png -id=S2x -transform={"brightness":1,"position":{"y":80}} -next;
-长崎素世:妈妈烤得棉花糖，比我做的好吃很多。
+长崎素世:妈妈烤的棉花糖，比我做的好吃很多。
 setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2x -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 千早爱音:原来如此~~Soyorin很喜欢妈妈吧？
@@ -599,7 +599,7 @@ changeFigure:M2.png -left -id=M2 -transform={"brightness":0.7,"position":{"y":80
 bgm:01/soft-background-piano-285589.G.mp3 -volume=70;
 :尽情享受完棉花糖烧烤之后，三人肩靠着肩睡在帐篷里，素世躺在小睦和爱音的中间。;
 playEffect:01/火苗5s.mp3 -next;
-:羽绒被的柔软裹住全身，透过敞开的门帘朝外望去，幽蓝的篝火在夜色中跳动，将漫天繁星衬得越发璀璨。;
+:羽绒被的柔软裹住全身，透过敞开的门帘朝外望去，淡黄的篝火在夜色中跳动，将漫天繁星衬得越发璀璨。;
 :那是在城市里看不到的景色，银河像洒落的碎银，横穿整个夜空，如同亿万颗的小钻石镶嵌在暗蓝色的丝绒上，碎成流萤般的微光。;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:好壮观……感觉在东京完全没机会看到这么美的星空。
@@ -619,7 +619,7 @@ setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:Soyorin，你有看过这样的星空吗？;
 setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
-长崎素世:有哦，我是初中的时候才来到东京住的，在那之前我跟妈妈住在一个乡下的小镇里。;
+长崎素世:有哦，我是初中的时候才来东京住的，在那之前我跟妈妈住在一个乡下的小镇里。;
 长崎素世:晚上经常能看到北斗七星，不过银河就没有这么清楚……当然肯定比不上这里好看就是了。;
 setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
@@ -700,7 +700,7 @@ setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:哼哼~在我的三重保险下，我就不信Rikki还能对我动手！;
 setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
-长崎素世:在这种奇怪的地方歪点子就动得特别快……;
+长崎素世:在这种奇怪的地方歪脑筋就动得特别快……;
 setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
 :少女们的打闹声在夜空下回荡，却又突然在某个瞬间默契地陷入寂静。;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
@@ -733,7 +733,7 @@ setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:晚，晚安……
 千早爱音:下次……一定要带大家来……
-:爱音的声音渐渐低下去，最后几个字则是融化在了晚风里，宣告着夜谈会的结束。;
+:爱音的声音渐渐低下去，最后几个字则是融化在晚风里，宣告着夜谈会的结束。;
 setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 :借着篝火的亮光，素世看着身边两人安静熟睡的侧脸，星光穿过帐篷门帘，在三人交叠的手腕上织出银白色的纹路，像是某种无声的契约。;
@@ -837,7 +837,7 @@ changeFigure:M2.png -left -id=M2 -transform={"brightness":0.7,"position":{"y":80
 bgm:01/piano-solo-for-love-cinematic-loop-333809.mp3 -volume=70;
 :素世猛地从被褥里坐起，却发现回到了帐篷里，爱音和小睦仍在她身边熟睡，前者仰着脸呼呼大睡，不时还咂咂嘴，似乎是做着什么大餐的美梦。;
 playEffect:01/火苗5s.mp3 -next;
-:小睦仍是像睡前一样，紧紧握着她的手，如同一只小鸟安静地依偎在她身旁，帐篷外，幽蓝的篝火安静燃烧，银河依旧璀璨，似乎刚才的一切只是一场荒诞的噩梦。;
+:小睦仍是像睡前一样，紧紧握着她的手，如同一只小鸟安静地依偎在她身旁，帐篷外，篝火安静燃烧，银河依旧璀璨，似乎刚才的一切只是一场荒诞的噩梦。;
 长崎素世:（梦吗？）
 :她捂住自己的嘴巴，颤抖地摸向狂跳的心脏，极力克制自己被吓到错乱不堪的呼吸，她并不想因这种事惊醒身边的人。;
 长崎素世:（还好只是梦……）
@@ -1297,9 +1297,7 @@ changeFigure:A2.png -right -id=A2 -transform={"brightness":0.4,"position":{"x":-
 :夜风渐息，爱音的呼吸渐渐平稳，温热的呼吸均匀地喷洒在素世颈间。素世低头看着怀里沉睡的人，睫毛上仍挂着未干的泪珠，嘴角却微微上扬，像是做着甜美的梦。;
 长崎素世:（看来，有些话大概要等到天亮再说了。）
 长崎素世:（晚安，笨蛋。）
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2 -duration=0 -next;
-changeFigure:none -id=A2 -next;
-changeFigure:none -id=S2l -next;
+setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2l -duration=0 -next;
 setTransform:{"brightness":0} -target=bg-main -duration=500 -next;
 jumpLabel:label_last;
 label:label_Mutsumi1;
@@ -1397,7 +1395,7 @@ changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":400
 长崎素世:首先要把棉花糖串起来。;
 :她抽出一根细长的树枝，仔细地将旁枝折去，只留下光溜溜的主干，余光瞥见小睦专注的神情，正目不转睛地盯着她手上的动作看。;
 :篝火依旧灼热地燃烧着，素世将棉花糖小心地串在树枝上，随后递给小睦。;
-长崎素世:试试吧，不要靠的太近，要慢慢地靠近，用外围的温度去烤。
+长崎素世:试试吧，不要靠得太近，要慢慢地靠近，用外围的温度去烤。
 setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 若叶睦:像这样？
@@ -1657,9 +1655,7 @@ setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S2q -duration=
 setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
 changeFigure:none -id=M2 -next;
 changeFigure:M2smile.png  -left -id=M2sm -transform={"brightness":1,"position":{"x":270,"y":80}} ;
-changeFigure:none -id=M2sm -next;
-changeFigure:none -id=S2q -next;
-setTransform:{"brightness":0} -target=bg-main -duration=500 -next;
+setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 jumpLabel:label_last;
 label:label_SP1;
 playEffect:015/营火.mp3 -id=营火 -next;
@@ -2072,7 +2068,7 @@ jumpLabel:label_last;
 label:label_last;
 setTransform:{"brightness":1} -target=bg-main -duration=500 -next;
 playEffect:015/树叶沙沙.mp3 -next;
-:森林深处传来树叶沙沙作响的声音，却再无其他多余的光亮，只有幽蓝的篝火与漫天的星光在不知疲倦地闪烁着，为这个小小的篝火营地洒满了无声的安眠曲。;
+:森林深处传来树叶沙沙作响的声音，却再无其他多余的光亮，只有明亮的篝火与漫天的星光在不知疲倦地闪烁着，为这个小小的篝火营地洒满了无声的安眠曲。;
 :晚安，大家。;
 bgm: -enter=2000 -next;
 end;
