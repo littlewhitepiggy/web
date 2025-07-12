@@ -1,0 +1,8 @@
+/* 注册文泉驿点阵宋体 */
+@font-face {
+  font-family: 'WenQuanYi Bitmap Song';
+  src: url('https://raw.githubusercontent.com/littlewhitepiggy/WenQuanYiBitmapSong14px/main/WenQuanYiBitmapSong14px.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; /* 优化字体加载时的显示效果 */
+}

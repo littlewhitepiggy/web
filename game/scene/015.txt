@@ -6,7 +6,7 @@ setTransform:{"brightness":1} -target=bg-main -duration=500 -next;
 :出了峡谷，眼前是一片幽静的森林。;
 :天边的云彩染上淡淡的紫红色，夕阳的余晖渐渐被森林吞没，高大的树木在暮色中投下长长的影子。;
 changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
-changeFigure:A2.png -right -id=A2 -transform={"brightness":0.4,"position":{"x":-150,"y":80}} -next;
+changeFigure:A2.png -right -id=A2 -transform={"brightness":0.55,"position":{"x":-150,"y":80}} -next;
 长崎素世:不知不觉已经快入夜了呢。;
 长崎素世:我觉得我们还是等天亮再出发比较好。
 changeFigure:none -id=S2 -next;
@@ -15,88 +15,89 @@ changeFigure:S2皱眉.png -id=S2z -transform={"brightness":1,"position":{"x":-40
 changeFigure:none -id=S2z -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:毕竟，稀奇古怪的魔法生物今天已经见到不少了。
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
 千早爱音:确实呢……虽然小睦的提灯可以照明，但如果可以的话，我也不是很想在黑漆漆的森林里走就是啦。
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
 changeFigure:none -id=S2t -next;
 changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:那就找个地方过夜吧。
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2 -duration=0 -next;
 changeFigure:none -id=A2 -next;
 changeFigure:A2开朗笑2.png -right -id=A2k2 -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 千早爱音:对了！那样的话我们来搭个篝火吧！有篝火的话晚上也会安全一些吧？
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S2 -duration=0 -next;
 长崎素世:就是不知道要怎么生火……
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
 千早爱音:生火？尽管交给我吧！
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:你有办法吗？
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
 千早爱音:这还不简单？我可以钻木取火呀！
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
 changeFigure:none -id=S2j -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:虽然不想打击你的积极性，但是——
 长崎素世:那个是需要很多小细节的，你不会觉得直接拿根木棍钻就能生火了吧？
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
 千早爱音:哼哼~那种事情我当然是知道啦~
 千早爱音:我偶尔也会在油管上看荒野求生频道的好不好，不要把我当笨蛋哦Soyorin。
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 长崎素世:那还真是令人意外。
 changeFigure:none -id=S2t -next;
 changeFigure:S2轻笑.png -id=S2q -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:（偶尔也挺可靠的嘛。）
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
 changeFigure:none -id=A2k2 -next;
 changeFigure:none -id=S2q -next;
 changeFigure:Fairy.png -id=F -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
-changeFigure:M2.png -left -id=M2 -transform={"brightness":0.7,"position":{"x":270,"y":80}} -next;
+changeFigure:M2.png -left -id=M2 -transform={"brightness":0.58,"position":{"x":270,"y":80}} -next;
 playEffect:01/小精灵.mp3 -id=小精灵;
 :在素世与爱音讨论露营细节的时候，提灯里的小精灵突然化作星屑状飞到了小睦肩头，残留的星屑在空中画出了淡绿色的帐篷轮廓。;
 setTransform:{"brightness":0} -target=bg-main -duration=500 -next;
 小精灵:（是打算在外边过夜吗？）;
 小精灵:（其实……）;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=F -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=F -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 若叶睦:（真的吗？）
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=F -duration=0 -next;
 小精灵:（嗯！努力一下的话可以做到哦~）;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=F -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=F -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 changeFigure:none -id=F -next;
 setTransform:{"brightness":1} -target=bg-main -duration=500 -next;
-changeFigure:S2.png -id=S2 -transform={"brightness":0.65,"position":{"y":80}} -next;
-changeFigure:A2.png -right -id=A2 -transform={"brightness":0.4,"position":{"y":80}} -next;
+changeFigure:S2.png -id=S2 -transform={"brightness":0.55,"position":{"y":80}} -next;
+changeFigure:A2.png -right -id=A2 -transform={"brightness":0.55,"position":{"y":80}} -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2 -duration=0 -next;
 playEffect:none -id=小精灵;
 若叶睦:大家。
 若叶睦:我有露营帐篷。
 若叶睦:提灯说它可以变出来。
-setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:诶？不会吧，小睦连这个都有吗，帮大忙了！;
 千早爱音:我还以为今晚要直接躺在地上过夜呢....;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2 -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:再怎么说也不至于那么落魄吧。
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2t -duration=0 -next;
 changeFigure:none -id=A2 -next;
 changeFigure:A2开朗笑2.png -right -id=A2k2 -transform={"brightness":1,"position":{"y":80}} -next;
 千早爱音:好，事不宜迟，我们出发吧！;
 千早爱音:篝火营地，我们来啦！;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2t -duration=0 -next;
 长崎素世:不用喊得这么大声吧……
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2t -duration=0 -next;
 :;
 setTransform:{"brightness":0} -target=bg-main -duration=500 -next;
 changeFigure:none -id=A2k2 -next;
@@ -106,11 +107,11 @@ changeBg:间章/bg024b.jpg -next;
 setTransform:{"brightness":1} -target=bg-main -duration=500 -next;
 :三人在森林中发现了一块空旷的草地，地上只有一些落叶，相对森林里的其他地方来说比较干净，于是决定把营地建在这里。;
 changeFigure:M2.png -left -id=M2 -transform={"brightness":1,"position":{"y":80}} -next;
-changeFigure:S2.png -id=S2 -transform={"brightness":0.4,"position":{"y":80}} -next;
-changeFigure:A2.png -right -id=A2 -transform={"brightness":0.4,"position":{"y":80}} -next;
+changeFigure:S2.png -id=S2 -transform={"brightness":0.55,"position":{"y":80}} -next;
+changeFigure:A2.png -right -id=A2 -transform={"brightness":0.55,"position":{"y":80}} -next;
 playEffect:00序章/fairy-dust-shimmer-1-175611.mp3;
 :小睦将手里的提灯轻轻放到草地上，绿光如蒲公英般散开，在空地上编织出了一个六角的帆布帐篷，上面还画着几朵黄瓜花。;
-setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"y":80}} -target=M2 -duration=0 -next;
 :帐篷门帘自动掀起时，里面已经铺好了三床柔软的羽绒被。;
 changeFigure:none -id=A2 -next;
 changeFigure:A2眯眼笑.png -right -id=A2m -transform={"brightness":1,"position":{"y":80}} -next;
@@ -119,12 +120,12 @@ changeFigure:A2眯眼笑.png -right -id=A2m -transform={"brightness":1,"position
 千早爱音:想不到在这里也能睡到这么舒服的被子，小睦好厉害！
 :爱音兴奋地在帐篷里打滚。;
 千早爱音:Soyorin，小睦，快来一起躺吧，可舒服了！
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2m -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2m -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:这么快就躺下了？
 长崎素世:刚才是谁说想要做篝火的，这么快就忘记了吗？
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2j -duration=0 -next;
 changeFigure:none -id=A2m -next;
 changeFigure:A2开朗笑2.png -right -id=A2k2 -transform={"brightness":1,"position":{"y":80}} -next;
 千早爱音:对哦。
@@ -134,30 +135,30 @@ setTransform:{"position":{"x":50,"y":80},"alpha":0,"blur":5} -target=A2k2 -durat
 changeFigure:none -id=A2 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2j -duration=0 -next;
 长崎素世:喂，等等……
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 若叶睦:跑远了。
-setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"y":80}} -target=M2 -duration=0 -next;
 changeFigure:none -id=S2j -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:……做事还是那么毛毛躁躁，也该吸取教训吧。
 长崎素世:小睦，我们也别闲着，清理一下周围吧。
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 若叶睦:嗯。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 changeFigure:none -id=S2t -next;
 changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 playEffect:01/烟雾2.mp3;
 :素世挥动法杖，碎冰如银蛇般将地上的碎石与杂草卷到一旁。;
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 playEffect:01/魔女魔法.mp3;
 :小睦像是察觉到了什么，小心翼翼地蹲下身子，提灯的光芒突然如水波般荡漾开，笼罩在旁边的几丛荆棘上。;
 changeFigure:none -id=M2 -next;
 changeFigure:M2sad.png  -left -id=M2s -transform={"brightness":1,"position":{"x":270,"y":80}} -next;
 若叶睦:荆棘……在害怕。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2s -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2s -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:害怕？难道是魔法植物吗？
@@ -166,7 +167,7 @@ changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"x":400
 changeFigure:none -id=S2j -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:有点难办了呢……
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
 changeFigure:none -id=M2s -next;
 changeFigure:M2.png  -left -id=M2 -transform={"brightness":1,"position":{"x":270,"y":80}} -next;
 若叶睦:不用担心。
@@ -178,60 +179,60 @@ playEffect:015/荆棘移动.mp3 -id=荆棘移动;
 playEffect:none -id=荆棘移动;
 若叶睦:它们说……可以保护我们。
 若叶睦:像刺猬先生的外壳一样。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
 长崎素世:不管看了多少次，果然还是会觉得很神奇。
 changeFigure:none -id=S2t -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:不过，小睦连魔法植物也能安抚吗？
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 若叶睦:只是……觉得可以做到。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 changeFigure:none -id=S2j -next;
 changeFigure:S2轻笑.png -id=S2q -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 bgm: -enter=2000;
 长崎素世:很令人安心哦，小睦。
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 若叶睦:嗯。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 bgm:01/suspense-background-music.mp3 -volume=80;
 千早爱音:哇啊！！！！
 playEffect:01/法术触发.mp3 -next;
 :不远处突然传来爱音夸张的尖叫，小睦立刻握紧提灯起身，素世也将法杖举在身前，脚下的冰纹如蜘网般朝声源处蔓延。;
 changeFigure:none -id=S2q -next;
-changeFigure:S2生气.png -id=S2s -transform={"brightness":0.65,"position":{"x":400,"y":80}} -next;
+changeFigure:S2生气.png -id=S2s -transform={"brightness":0.55,"position":{"x":400,"y":80}} -next;
 changeFigure:none -id=M2 -next;
 changeFigure:M2anger.png  -left -id=M2a -transform={"brightness":1,"position":{"x":270,"y":80}} -next;
 若叶睦:刚才那是……爱音！
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2a -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2a -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S2s -duration=0 -next;
 长崎素世:怎么回事？！遇到危险了吗？
 长崎素世:果然就不该让她自己一个人出去的！
 choose: 自己赶过去:label_1|和睦一起过去:label_2;
 label:label_1;
 长崎素世: 小睦，你守着帐篷，小心点！
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2s -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2s -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2a -duration=0 -next;
 若叶睦:我能帮忙。
 jumpLabel:label_3;
 label:label_2;
 setVar:Mutsumi=Mutsumi+1;
 长崎素世:小睦，我们快过去！
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2s -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2s -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2a -duration=0 -next;
 若叶睦:嗯……一起去帮助爱音。
 jumpLabel:label_3;
 label:label_3;
 :绿光如箭矢般射出，指向声音传来的方向。;
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2a -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2a -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S2s -duration=0 -next;
 长崎素世:跟紧我！
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2s -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2s -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2a -duration=0 -next;
 若叶睦:嗯！
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2a -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2a -duration=0 -next;
 playEffect:015/森林奔跑.mp3 -id=森林奔跑;
 :两人踩着冻结的落叶全速奔跑，却在瞥见灌木丛后晃动着的粉色长发后同时刹住脚步。;
 playEffect: -id=森林奔跑;
@@ -248,33 +249,33 @@ bgm:00序章/funk-background-royalty-free-music-188685.mp3 -unlockname=Funk-Back
 unlockBgm:00序章/funk-background-royalty-free-music-188685.mp3 -name=Funk-Background-Royalty-Free-Music;
 playEffect:01/火苗3s.mp3 -next;
 changeFigure:A2可怜.png -right -id=A2kl -transform={"brightness":1,"position":{"y":80}} -next;
-changeFigure:M2.png  -left -id=M2 -transform={"brightness":0.7,"position":{"y":80}} -next;
-changeFigure:S2.png -id=S2 -transform={"alpha":0.65,"brightness":1,"position":{"y":80}} -next;
+changeFigure:M2.png  -left -id=M2 -transform={"brightness":0.58,"position":{"y":80}} -next;
+changeFigure:S2.png -id=S2 -transform={"alpha":0.55,"brightness":1,"position":{"y":80}} -next;
 :素世带着小睦冲进灌木丛，却看到爱音正坐在一堆比她还高的柴火堆里，眼睛瞪得滚圆，左手还举着半根冒烟的蓝色树枝，右手慌乱地拍打着刘海——;
 几缕焦黑的发梢正冒着细烟，空气中弥漫着烧焦羽毛般的气味。;
 千早爱音:诶？Soyorin？小睦？你们怎么过来了？
 千早爱音:我，我没什么事，很快就回去……啊！怎么还在烧！
 千早爱音:呜呜呜~~我的头发……
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2kl -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2kl -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:……
 playEffect:01/光魔法.mp3 -next;
 :素世叹了叹气，走上前伸出手掌覆在爱音的脸上，法杖顶端的宝石折射着蓝色的光芒，在爱音通红的脸颊上投下冷冽的光斑，烧焦的头发上渐渐结出一层冰霜。;
 长崎素世:好了，还烫吗？
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2kl -duration=0 -next;
 千早爱音:没事了……
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2kl -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2kl -duration=0 -next;
 changeFigure:none -id=S2t -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:我很好奇，你出来捡个树枝为什么会搞成这个样子？
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2kl -duration=0 -next;
 千早爱音:就，就只是被火苗蹭到头发而已！
 :爱音梗着脖子辩解，却在小睦凑过来为她治疗时立刻焉了下去。;
 千早爱音:我哪知道这树枝会突然着火……
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2kl -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2kl -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2j -duration=0 -next;
 :素世拿起她手里的蓝色树枝仔细端详，树皮上隐约能看出荧光的纹路，断裂处仍飘着轻烟。;
 长崎素世:会着火的树枝？也是魔法植物吗？;
@@ -282,52 +283,52 @@ playEffect:015/火苗燃起.mp3 -next;
 changeFigure:none -id=S2j -next;
 changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"y":80}} -next;
 :素世思索片刻，将手里的树枝轻轻折断。树枝断裂处冒起点点荧光，随后，一抹幽蓝色的火焰在树枝上燃起。;
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2kl -duration=0 -next;
 千早爱音:啊！刚才也是这样！;
 千早爱音:刚才摔倒的时候不小心把树枝压断了，我看它在冒烟就把它拿起来看，结果就突然蹦出火来了！;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2kl -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2kl -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:唉……你还真是不让人放心。;
 changeFigure:none -id=S2t -next;
 changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:不过这树枝或许可以当打火机用。;
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2kl -duration=0 -next;
 playEffect:01/灯闪3.mp3 -next;
 :另一边，在提灯的照耀下，爱音焦枯的发尾已经重新变得柔亮，还沾染了些像是萤火虫一样的微光。;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2kl -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2kl -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 若叶睦:爱音，没事了。;
-setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2kl -duration=0 -next;
 千早爱音:呜呜呜~谢谢小睦！;
 千早爱音:还以为要一直顶着这个头发了……;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2kl -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2kl -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:好了，没事了我们就回去吧。;
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2 -duration=0 -next;
 changeFigure:none -id=A2kl -next;
 changeFigure:A2.png -right -id=A2 -transform={"brightness":1,"position":{"y":80}} -next;
 千早爱音:哦，你们等我一下。;
 :爱音站起身，刚想把旁边比她人还高的柴火堆搬起来，素世便抢先一步帮她拿走了大半。;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:我也来吧。;
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:诶，其实我一个人就可以啦。;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2 -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:就是因为你拿太多了，都看不见脚下，所以才会摔倒。;
 长崎素世:也不懂得叫我们过来帮忙。;
 长崎素世:总之，快回去吧，再磨蹭下去就快天亮了。;
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:嗯……;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2 -duration=0 -next;
 playEffect:01/灯闪3.mp3 -next;
 :素世托着一大捆木柴走在最前面，爱音抱着剩下的树枝亦步亦趋地跟在后面，发梢的荧光随着步伐轻轻晃动，像撒了一把碎星星。;
 :小睦则提着提灯殿后，手里也捧着一小捆树枝。绿光扫过之处，沿途的蕨类植物都轻轻颔首，仿佛在向这支满载而归的小队致意。;
@@ -339,9 +340,9 @@ changeFigure:none -id=S2t -next;
 setTransform:{"brightness":0} -target=bg-main -duration=500;
 changeBg:间章/bg019c.jpg -next;
 setTransform:{"brightness":1} -target=bg-main -duration=500 -next;
-changeFigure:S2.png -id=S2 -transform={"brightness":0.65,"position":{"y":80}} -next;
+changeFigure:S2.png -id=S2 -transform={"brightness":0.55,"position":{"y":80}} -next;
 changeFigure:A2开朗笑2.png -right -id=A2k2 -transform={"brightness":1,"position":{"y":80}} -next;
-changeFigure:M2.png -left -id=M2 -transform={"brightness":0.7,"position":{"y":80}} -next;
+changeFigure:M2.png -left -id=M2 -transform={"brightness":0.58,"position":{"y":80}} -next;
 bgm:01/telling-the-story-150614.mp3 -unlockname=Telling-the-Story;
 千早爱音:Soyorin你看，这些木柴搭起来像不像金字塔？;
 千早爱音:要是点着了一定超——好看！;
@@ -349,11 +350,11 @@ bgm:01/telling-the-story-150614.mp3 -unlockname=Telling-the-Story;
 changeFigure:none -id=A2k2 -next;
 changeFigure:A2.png -right -id=A2 -transform={"brightness":1,"position":{"y":80}} -next;
 千早爱音:那个……Soyorin，要不还是你来吧？
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2 -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:刚才是谁信誓旦旦说要表演钻木取火的？
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:毕，毕竟Soyorin是魔法师嘛！万一火太大了，Soyorin一挥手就能把火堆冻起来了。
 :爱音躲到小睦身后，不知从哪掏出一袋棉花糖。;
@@ -361,23 +362,23 @@ changeFigure:none -id=A2 -next;
 changeFigure:A2开朗笑2.png -right -id=A2k2 -transform={"brightness":1,"position":{"y":80}} -next;
 千早爱音:再说了，我可是有更重要的任务要做！;
 千早爱音:那就是给你们烤棉花糖！;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 changeFigure:none -id=S2t -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:你从哪拿出来的？
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2j -duration=0 -next;
 changeFigure:none -id=A2k2 -next;
 changeFigure:A2眯眼笑.png -right -id=A2m -transform={"brightness":1,"position":{"y":80}} -next;
 千早爱音:刚才在魔女小屋的时候，发现厨房里有这个，看到是"露营用棉花糖"我就拿来啦。
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2m -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2m -duration=0 -next;
 changeFigure:none -id=S2j -next;
 changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:你这样乱拿人家东西真的好吗……
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2 -duration=0 -next;
 changeFigure:none -id=A2m -next;
 changeFigure:A2开朗笑2.png  -right -id=A2k2 -transform={"brightness":1,"position":{"y":80}} -next;
 千早爱音:有什么关系嘛，魔女亲可是我的朋友哦，肯定会同意的！
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:先让火点起来再说吧。
@@ -386,26 +387,26 @@ changeFigure:none -id=M2 -next;
 changeFigure:none -id=S2t -next;
 changeBg:间章/bg019d.jpg;
 changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"y":80}} -next;
-changeFigure:A2.png -right -id=A2 -transform={"brightness":0.4,"position":{"y":80}} -next;
-changeFigure:M2.png -left -id=M2 -transform={"brightness":0.4,"position":{"y":80}} -next;
+changeFigure:A2.png -right -id=A2 -transform={"brightness":0.55,"position":{"y":80}} -next;
+changeFigure:M2.png -left -id=M2 -transform={"brightness":0.55,"position":{"y":80}} -next;
 playEffect:015/火苗燃起.mp3 -next;
 :素世无奈地摇摇头，将那根曾烧过爱音头发的蓝色树枝折断，火焰立刻跃上柴堆，却意外地安静温和，像被驯服的小精灵，安静地舔舐着枯枝。;
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2 -duration=0 -next;
 changeFigure:none -id=A2 -next;
 changeFigure:A2开朗笑2.png -right -id=A2k2 -transform={"brightness":1,"position":{"y":80}} -next;
 playEffect:01/火苗5s.mp3 -id=燃烧 -next;
 千早爱音:呜哇！果然好漂亮！
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 若叶睦:很温暖。
-setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"y":80}} -target=M2 -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:篝火吗……;
 changeFigure:none -id=S2j -next;
 changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:感觉像是梦里才会有的东西。;
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2 -duration=0 -next;
 :火焰升腾起淡紫色的轻烟，意外地不呛，反而有种薄荷味的清香。;
 playEffect: -id=燃烧;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2k2 -duration=0 -next;
@@ -416,16 +417,16 @@ playEffect:015/烤.mp3 -next;
 changeFigure:none -id=A2k2 -next;
 changeFigure:A2可怜.png -right -id=A2kl -transform={"brightness":1,"position":{"y":80}} -next;
 千早爱音:啊啊啊啊我的杰作！
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2kl -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2kl -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:你是在烤煤炭吗？那确实很有秘诀了。
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2kl -duration=0 -next;
 千早爱音:才，才不是！这叫焦香风味，专业的烤棉花糖大师都这么吃！
 :爱音硬着头皮吹了吹已经碳化的棉花糖，鼓起勇气咬了一口，随即整张脸便皱成一团。;
 千早爱音:呜……好苦……
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2kl -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2kl -duration=0 -next;
 changeFigure:none -id=S2j -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:那怎么看都不是能吃的东西吧。
@@ -434,20 +435,20 @@ choose: 拿:label_4|不拿:label_5;
 label:label_4;
 setVar:Anon=Anon+1;
 长崎素世:要吃颗非大师提供的棉花糖吗？
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2kl -duration=0 -next;
 千早爱音:我错了啦……
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2kl -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2kl -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2t -duration=0 -next;
 长崎素世:真是的。
 :素世从袋子里拿出一枚棉花糖，喂到了爱音嘴里，柔软的糖丝在口中化开，驱散了爱音口中的苦味。;
 changeFigure:none -id=S2t -next;
 changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:好多了吗？
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2kl -duration=0 -next;
 千早爱音:还有一点点苦……
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2kl -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2kl -duration=0 -next;
 jumpLabel:label_6;
 label:label_5;
 长崎素世:（让她长长记性也好。）
@@ -467,12 +468,12 @@ playEffect:015/烤.mp3 -next;
 changeFigure:none -id=S2t -next;
 changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:要离火远一点，像这样……用热度慢慢地将棉花糖烤好。
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2kl -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 :爱音蹲在旁边目不转睛，小睦也凑了过来。;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2kl -duration=0 -next;
-setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2kl -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 :雪白的棉花糖上逐渐泛起金黄色的光泽，当糖球表面冒出一层细密的焦糖气泡时，素世便将棉花糖递给爱音。;
 长崎素世:现在可以吃了，趁没烤糊之前。
@@ -480,78 +481,78 @@ changeFigure:none -id=S2 -next;
 changeFigure:S2轻笑.png -id=S2q -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:当然，如果你还想要吃你的焦香风味的话，可以再烤一会。
 changeFigure:none -id=S2q -next;
-changeFigure:S2.png -id=S2 -transform={"brightness":0.65,"position":{"y":80}} -next;
+changeFigure:S2.png -id=S2 -transform={"brightness":0.55,"position":{"y":80}} -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2kl -duration=0 -next;
 千早爱音:那，那个……真正的大师一天只会吃一次焦香风味噢！
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2kl -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2kl -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:那只能委屈大师吃我的普通棉花糖了。
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2kl -duration=0 -next;
 千早爱音:也没有那么委屈啦……;
 changeFigure:none -id=A2kl -next;
 changeFigure:A2开朗笑2.png -right -id=A2k2 -transform={"brightness":1,"position":{"y":80}} -next;
 :爱音小心翼翼地咬了一口，眼睛顿时一亮。;
 千早爱音:好好吃！外面脆脆的，里面像云朵一样软！
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:给，小睦，这是你的。
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 若叶睦:谢谢。
 :小睦接过棉花糖，轻轻咬了一口。;
 若叶睦:……！
 若叶睦:很好吃。
-setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 千早爱音:Soyorin好专业诶！居然烤得这么棒！
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:没什么，我只是普通地会做而已，并不是特别擅长烤这个。
 长崎素世:我以前有跟妈妈一起去过露营，是那个时候妈妈教我的。
 changeFigure:none -id=S2 -next;
 changeFigure:S2笑.png -id=S2x -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:妈妈烤的棉花糖，比我做的好吃很多。
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2x -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2x -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 千早爱音:原来如此~~Soyorin很喜欢妈妈吧？
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 changeFigure:none -id=S2x -next;
 changeFigure:S2脸红.png -id=S2l -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:为什么突然这么说？
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2l -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2l -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 千早爱音:脸上的笑没藏住哦。
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 changeFigure:none -id=S2l -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:唔……！
 :素世指尖一抖，差点让棉花糖从手里滑落，她慌乱地用另一只手按住发烫的脸颊，手心传来的温度让她吓了一跳。;
 长崎素世:你看错了！
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 千早爱音:真的嘛？明明脸变得这么红~
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2j -duration=0 -next;
 长崎素世:是，是这篝火太热了！要不是为了烤棉花糖，我也不用靠篝火这么近了……对，就是太热导致的！
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 若叶睦:素世，耳朵一直在动。
-setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2j -duration=0 -next;
 长崎素世:诶？
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 :小睦歪着头看向素世头顶，毛茸茸的狐狸耳朵正随着主人的心情欢快地晃动，像被风吹动的蒲公英。;
 若叶睦:像小狗一样。
-setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 千早爱音:对呢！晃啊晃啊晃啊晃~~;
 千早爱音:感觉如果有尾巴的话，Soyorin也会摇尾巴的吧？;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 若叶睦:想看。
-setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"y":80}} -target=M2 -duration=0 -next;
 changeFigure:none -id=S2j -next;
 changeFigure:S2生气.png -id=S2s -transform={"brightness":1,"position":{"y":80}} -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
@@ -561,29 +562,29 @@ setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 changeFigure:none -id=S2s -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:只是……想起了妈妈的事有点开心而已……
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 千早爱音:（Soyorin偶尔也会有这样可爱的一面嘛……）
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 若叶睦:（……想摸耳朵。）
-setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 千早爱音:好！我已经学会怎么烤了！现在就让我来烤给你们吃吧！
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 若叶睦:爱音。
 :小睦拉了拉爱音的衣袖。;
-setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 千早爱音:怎么了？小睦是不是等不及了？放心！我很快就烤好！
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2k2 -duration=0 -next;
 changeFigure:none -id=M2 -next;
 changeFigure:M2shy.png  -left -id=M2shy -transform={"brightness":1,"position":{"y":80}} -next;
 若叶睦:（摇摇头）
 若叶睦:我不是烤棉花糖大师。
 若叶睦:所以，不吃焦香风味。
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=M2shy -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=M2shy -duration=0 -next;
 changeFigure:none -id=A2k2 -next;
 changeFigure:A2可怜.png -right -id=A2kl -transform={"brightness":1,"position":{"y":80}} -next;
 千早爱音:不，不会做那个给小睦吃的啦！;
@@ -593,152 +594,79 @@ changeFigure:none -id=M2shy -next;
 changeFigure:none -id=S2t -next;
 bgm: -enter=2000 -next;
 changeBg:间章/bg034c.jpg;
-changeFigure:S2.png -id=S2 -transform={"brightness":0.65,"position":{"y":80}} -next;
-changeFigure:A2.png -right -id=A2 -transform={"brightness":0.4,"position":{"y":80}} -next;
-changeFigure:M2.png -left -id=M2 -transform={"brightness":0.7,"position":{"y":80}} -next;
+changeBg:间章/同眠1.png;
+unlockCg:间章/同眠1.png -name=tm1;
 bgm:01/soft-background-piano-285589.G.mp3 -volume=70;
 :尽情享受完棉花糖烧烤之后，三人肩靠着肩睡在帐篷里，素世躺在小睦和爱音的中间。;
 playEffect:01/火苗5s.mp3 -next;
 :羽绒被的柔软裹住全身，透过敞开的门帘朝外望去，淡黄的篝火在夜色中跳动，将漫天繁星衬得越发璀璨。;
 :那是在城市里看不到的景色，银河像洒落的碎银，横穿整个夜空，如同亿万颗的小钻石镶嵌在暗蓝色的丝绒上，碎成流萤般的微光。;
-setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:好壮观……感觉在东京完全没机会看到这么美的星空。
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 若叶睦:小时候有看过。;
 若叶睦:那时候，跟小美奈……妈妈去伊豆的小岛上参加节目，小岛晚上的星空也很美。;
 若叶睦:不过，没有现在好看。;
-setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 :素世侧过脸，看着小睦的睫毛在星光下微微颤动，像振翅欲飞的蝴蝶。;
 长崎素世:从小就要跟着家里人到处去参加节目吗？;
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:听着就好辛苦哦……;
 千早爱音:不行不行不行，不说这些不开心的！;
 千早爱音:Soyorin，你有看过这样的星空吗？;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:有哦，我是初中的时候才来东京住的，在那之前我跟妈妈住在一个乡下的小镇里。;
 长崎素世:晚上经常能看到北斗七星，不过银河就没有这么清楚……当然肯定比不上这里好看就是了。;
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:果然大家都是在小时候见过呢！;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:长大以后，很多小时候的东西都不见了呢。;
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:嗯，感觉连抬头看星星的时间都没有了……啊！说到这个，Tomorin肯定每天晚上都在用望远镜看星星！;
 千早爱音:唉，这么美的夜空，好想让Tomorin也来跟我们一起看哦。;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:小灯很喜欢星星呢，每次约我们出去都会去天文馆，要是能看到这片星空的话，应该会兴奋地睡不着觉吧。;
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:如果可以，我一定要带Tomorin再来这里露营一次！到时候就把小乐奈也叫上一起吧！Rikki就不要了，感觉她又要说我带坏Tomorin之类的……;
 千早爱音:"你这家伙，自己不好好练习也就算了，还连累灯也没练习，你把我们的乐队当成什么了！";
 千早爱音:感觉会被这么说。;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:噗——学得还挺像的。;
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 若叶睦:爱音，模仿大师。;
-setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:小立希也只是担心你们而已，不过她有点太不擅长表达了。;
 长崎素世:要是被小立希知道你邀请了所有的乐队成员，却唯独没邀请她的话，估计练习时会把鼓都敲碎吧。;
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:这倒也是……明明平时总是一副生气的样子，但我一有点进步就会被她发现，其实Rikki是很关心我们的吧？;
 千早爱音:而且你们有没有发现，Rikki真的超级爱哭！我们乐队里面哭得最多的就是她了！比Soyorin哭得还多！;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:……喂，怎么又说到我身上了？;
 长崎素世:不过，除了跟我有关的部分以外我都挺赞同的。;
 长崎素世:别看小立希好像很不耐烦的样子，其实她一直以来都有在照顾大家呢。;
 长崎素世:就比如说，每次编曲的时候，她都是按照你吉他水平的进步一点点地给你增加难度哦。;
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:诶，真的假的，怪不得每次都感觉新曲的吉他难度很高，但努力练习之后就能顺利演奏出来了。;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:你能进步得这么快，她的曲子可是很重要的哦。;
 长崎素世:每次都能做到恰到好处，小立希可是下了不少苦功的。;
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:想不到Rikki对我这么好，呜呜呜~~;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:（我也受了不少照顾呢。）;
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:不过我刚才也是在开玩笑啦，怎么可能不带上Rikki一起呢！;
 千早爱音:就算她一天到晚都是一张臭脸，脾气又坏还爱哭，但我也是不会放弃Rikki的哦！;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:……;
 长崎素世:好的呢，我会将小爱音的这些话原封不动地转告给本人的哦~;
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:呜哇！Soyorin不要！我会被杀掉的！！！;
 千早爱音:小睦！快帮我求求Soyorin！;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 若叶睦:爱音，说坏话不好。;
-setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:完了，到时候只能藏在Tomorin身后才能躲过去了……;
 千早爱音:然后再用两杯抹茶巴菲买通小乐奈让她帮我拖住Rikki……;
 千早爱音:小睦！到时候就麻烦你帮我联系一下Mujica的海铃同学！;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 若叶睦:可以。;
-setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:哼哼~在我的三重保险下，我就不信Rikki还能对我动手！;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:在这种奇怪的地方歪脑筋就动得特别快……;
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
-:少女们的打闹声在夜空下回荡，却又突然在某个瞬间默契地陷入寂静。;
-setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
+:少女们的打闹声在夜空下回荡，却又突然在某个瞬间默契地陷入寂静。; 
 千早爱音:……
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:……
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 若叶睦:……
-setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:好想快点回去啊……然后告诉大家，我们在这里看到了多么美丽的景色。
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:会的，一定会的。
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 若叶睦:要安全回去……
-setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
 :素世注意到了小睦声音中的淡淡忧愁，悄悄将三人交叠的手往怀中拢了拢。;
 :爱音的头渐渐歪向了素世的肩膀，睫毛在脸颊上投下颤动的阴影。;
 :小睦不动声色地攥紧了素世的手，同时身体紧紧贴着素世的胳膊，仿佛这样能给她带来安全感。;
-setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
+: -next;
+changeBg:间章/同眠2.png;
 长崎素世:好好休息吧，晚安哦。
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 若叶睦:嗯……晚安。
-setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 千早爱音:晚，晚安……
 千早爱音:下次……一定要带大家来……
 :爱音的声音渐渐低下去，最后几个字则是融化在晚风里，宣告着夜谈会的结束。;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 :借着篝火的亮光，素世看着身边两人安静熟睡的侧脸，星光穿过帐篷门帘，在三人交叠的手腕上织出银白色的纹路，像是某种无声的契约。;
 长崎素世:（晚安。）
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
 :意识陷入昏沉，似乎是终于进入了梦乡。;
 :……;
 :;
@@ -767,7 +695,7 @@ playEffect:015/屏幕噪音.mp3 -volume=40 -next;
 长崎素世:（既然我回来了，那爱音和小睦她们呢？！）
 playEffect:015/短信通知.mp3 -next;
 :素世连忙掏出手机，上面显示有一条未读消息，打开之后里面的内容却让她愣住了。;
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S1 -duration=0 -next;
 "椎名立希":爱音说你们在森林里遇到了会点火的树枝？要是再用这种借口逃训练，下次我就让你们加倍地练回来！;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S1 -duration=0 -next;
 长崎素世:难道，我们已经回来了吗？;
@@ -777,15 +705,15 @@ playEffect:015/清洗.mp3 -next;
 :记忆与现实的严重不符合让素世有些喘不过气，她冲进洗手间洗脸，希望能借此让自己好受一些。;
 长崎素世:（……不管怎么样，只要能回来就是好的。）
 长崎素世:（回来就好。）
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S1 -duration=0 -next;
 ？？:你以为大家都回来了吗？;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S1 -duration=0 -next;
 :她抬起头，看向镜子里，而镜中的倒影却让她浑身血液凝固。;
 长崎素世:诶？
 changeFigure:none -id=S1 -next;
 changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"y":80}} -next;
-changeFigure:A2悲伤.png -right -id=A2b -transform={"brightness":0.4,"position":{"y":80}} -next;
-changeFigure:M2.png -left -id=M2 -transform={"brightness":0.7,"position":{"y":80}} -next;
+changeFigure:A2悲伤.png -right -id=A2b -transform={"brightness":0.55,"position":{"y":80}} -next;
+changeFigure:M2.png -left -id=M2 -transform={"brightness":0.58,"position":{"y":80}} -next;
 :镜子的自己穿着冒险中的那件米白色裙子，脖子上的枫叶配饰如鲜血般红的扎眼，更让她头晕目眩的是，镜子深处隐约映出另一个场景——;
 setTransform:{"alpha":0,"brightness":0} -target=A2b -duration=1000 -next;
 setTransform:{"alpha":0,"brightness":0} -target=M2 -duration=1000 -next;
@@ -802,7 +730,7 @@ changeFigure:none -id=S1 -next;
 changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"y":80}} -next;
 镜中的素世:不，你当然会，毕竟你就是这样自私的人，不是吗？;
 镜中的素世:你骗过了所有人，你还想骗过你自己吗？;
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2 -duration=0 -next;
 changeFigure:none -id=S2 -next;
 :;
 changeBg:间章/bgc053a.BMP;
@@ -832,8 +760,8 @@ changeBg:间章/bg034c.jpg;
 setTransform:{"brightness":1} -target=bg-main -duration=500 -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:……诶？
-changeFigure:A2.png -right -id=A2 -transform={"brightness":0.4,"position":{"y":80}} -next;
-changeFigure:M2.png -left -id=M2 -transform={"brightness":0.7,"position":{"y":80}} -next;
+changeFigure:A2.png -right -id=A2 -transform={"brightness":0.55,"position":{"y":80}} -next;
+changeFigure:M2.png -left -id=M2 -transform={"brightness":0.58,"position":{"y":80}} -next;
 bgm:01/piano-solo-for-love-cinematic-loop-333809.mp3 -volume=70;
 :素世猛地从被褥里坐起，却发现回到了帐篷里，爱音和小睦仍在她身边熟睡，前者仰着脸呼呼大睡，不时还咂咂嘴，似乎是做着什么大餐的美梦。;
 playEffect:01/火苗5s.mp3 -next;
@@ -842,18 +770,18 @@ playEffect:01/火苗5s.mp3 -next;
 :她捂住自己的嘴巴，颤抖地摸向狂跳的心脏，极力克制自己被吓到错乱不堪的呼吸，她并不想因这种事惊醒身边的人。;
 长崎素世:（还好只是梦……）
 changeFigure:none -id=S2j -next;
-changeFigure:S2.png -id=S2 -transform={"brightness":0.65,"position":{"y":80}} -next;
+changeFigure:S2.png -id=S2 -transform={"brightness":0.55,"position":{"y":80}} -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
 :爱音突然翻了个身，手臂搭在素世腰间，嘟囔着蹭了蹭。;
 千早爱音:Soyorin……棉花糖又烤焦了……分你一半好不好……
-setTransform:{"brightness":0.4,"position":{"y":80}} -target=A2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2 -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:（真是的，谁要吃焦的……）
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=M2 -duration=0 -next;
 :一旁的小睦似乎感受到了身边人的不安，忽然往素世身边蜷了蜷，像只寻求温暖的幼兽。;
-setTransform:{"brightness":0.7,"position":{"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=S2t -duration=0 -next;
 :素世伸出手，指尖抚过小睦的发梢。;
 长崎素世:（一时半会也睡不着了，出去透透气吧。）
@@ -875,7 +803,7 @@ playEffect: -id=营火;
 changeFigure:none -id=S2t -next;
 changeFigure:S2皱眉.png -id=S2z -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:本来打算出来透透气，怎么感觉越来越糟了……
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2z -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2z -duration=0 -next;
 playEffect:00序章/zapsplat_foley_tree_branch_thick_healthy_leaves_movement_rustle_short_002_66707.mp3 -volume=60;
 :身后的帐篷传来窸窣声。;
 changeFigure:none -id=S2z -next;
@@ -883,146 +811,146 @@ changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"y":80}
 长崎素世:（！）
 长崎素世:（谁被我吵醒了吗？）
 changeFigure:none -id=S2j -next;
-changeFigure:S2.png -id=S2 -transform={"brightness":0.65,"position":{"y":80}} -next;
+changeFigure:S2.png -id=S2 -transform={"brightness":0.55,"position":{"y":80}} -next;
 jumpLabel:label_Anon1 -when=Anon>8;
 jumpLabel:label_Mutsumi1 -when=Mutsumi>7;
 jumpLabel:label_SP1;
 label:label_Anon1;
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2 -duration=0 -next;
 changeFigure:A2可怜.png -right -id=A2kl -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 千早爱音:Soyorin？你还没睡吗？
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2kl -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2kl -duration=0 -next;
 :素世回过头，便看见爱音揉着眼睛从帐篷里爬了出来。;
 changeFigure:none -id=S2 -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:是我吵到你了吗？
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2kl -duration=0 -next;
 千早爱音:没有啦，我翻身的时候不小心磕到小睦的提灯了，疼死我了。
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2kl -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2kl -duration=0 -next;
 changeFigure:none -id=S2t -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:那个不是放在枕头上方吗？你怎么滚到那里去的？
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2kl -duration=0 -next;
 千早爱音:我哪知道，总感觉是有人拿着提灯敲我脑袋。;
 playEffect:01/火苗3s.mp3 -next;
 changeFigure:none -id=A2kl -next;
 changeFigure:A2.png -right -id=A2 -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 :爱音打着哈欠走到素世身边坐下，伸手拿过一旁的柴火，学着素世的样子添到篝火里。;
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
 changeFigure:none -id=S2j -next;
 changeFigure:S2皱眉.png -id=S2z -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:这边挤死了，一定要坐在我身边吗？
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2z -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2z -duration=0 -next;
 changeFigure:none -id=A2kl -next;
 changeFigure:A2开朗笑2.png -right -id=A2k2 -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 千早爱音:有什么关系嘛，像我这样的美少女能坐在你身边，你要心怀感激哦。
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
 changeFigure:none -id=S2z -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:会说这种话的就不算美少女了。
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 changeFigure:none -id=A2k2 -next;
 changeFigure:A2眯眼笑.png -right -id=A2m -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 千早爱音:对我这样的顶级美少女来说就是例外。
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2m -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2m -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 :素世朝爱音投去一个无语的眼神，收获了一个更令她无语的眨眼Wink。;
 长崎素世:小睦还在睡吗？
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 changeFigure:none -id=A2m -next;
 changeFigure:A2.png -right -id=A2 -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 千早爱音:嗯，睡得很香呢，整个人缩成一团了，看着就好可爱。
 千早爱音:哈~~困死了，感觉好像都没睡多久。
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 长崎素世:有力气抱怨这个，不如回去接着睡。
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
 千早爱音:待会再睡也一样啦，而且我觉得有人比我更需要休息哦？
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
 changeFigure:none -id=S2t -next;
 changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:……我只是出来透透气，很快就回去睡了。
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
 千早爱音:顶着一副苦巴巴的表情说这个可没有一点说服力哦，Soyorin？
 千早爱音:跟我说说怎么样，毕竟像我这样的"笨蛋"只要睡一觉就能把很多秘密都忘光光啦~
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S2 -duration=0 -next;
 长崎素世:……
 changeFigure:none -id=S2t -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:天天说这种漂亮话，没看出来哪里笨了。
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 changeFigure:none -id=A2 -next;
 changeFigure:A2可怜.png -right -id=A2kl -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 千早爱音:那Soyorin还一天到晚都说我笨蛋！
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2kl -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2kl -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 长崎素世:说两句你就信，那要是我说谎了怎么办？
 playEffect:01/火苗5s,mp3 -next;
 changeFigure:none -id=S2t -next;
 changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 :素世用树枝拨弄着火堆，火星溅起又熄灭。;
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2 -duration=0 -next;
 changeFigure:none -id=A2kl -next;
 changeFigure:A2.png -right -id=A2 -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 千早爱音:被Soyorin骗也不是不能接受吧？
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 :手中的动作一顿——;
 changeFigure:none -id=S2j -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:头一回听到被骗也无所谓的。
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
 千早爱音:才不是无所谓好吧！只是比起被其他人骗，那还不如被Soyorin骗更好。;
 changeFigure:none -id=A2 -next;
 changeFigure:A2开朗笑2.png -right -id=A2k2 -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 千早爱音:毕竟Soyorin就算骗了我，自己也会很愧疚，然后过不了多久就会想办法弥补了。;
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
 :;
 setTransform:{"brightness":0} -target=bg-main -duration=500 -next;
 changeFigure:none -id=A2k2 -next;
 changeFigure:none -id=S2t -next;
-changeFigure:S1_normal.png -id=S1 -transform={"brightness":0.4,"position":{"x":-400,"y":80}} -next;
-changeFigure:A1_normal.png -right -id=A1 -transform={"brightness":0.4,"position":{"x":-150,"y":80}} -next;
+changeFigure:S1_normal.png -id=S1 -transform={"brightness":0.55,"position":{"x":-400,"y":80}} -next;
+changeFigure:A1_normal.png -right -id=A1 -transform={"brightness":0.55,"position":{"x":-150,"y":80}} -next;
 :~~爱音的想象~~;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:呜呜呜对不起，小爱音，我骗了你，我真的好难受……
 长崎素世:请全世界最可爱的吉他主唱、羽丘的年级第一、学生会长大人、Mygo的队长原谅我吧！
 长崎素世:我真的知错了！
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A1 -duration=0 -next;
 千早爱音:唉！真没办法呢~~
 千早爱音:既然Soyorin都诚心道歉了，那我就原谅你吧~
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:谢谢你！我真的好感动！
 长崎素世:我会一辈子对你好的！
 长崎素世:这是鄙人近期购入的「喵梦★Channel推荐美妆Top10」全套，请笑纳。还有名牌的香薰……
 长崎素世:如果想办节日派对，请务必选择我的家！
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 "椎名立希":喂，你是不是太……;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:Rikki，不许说话！
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 "椎名立希":哈？;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A1 -duration=0 -next;
 千早爱音:哼哼~~
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A1 -duration=0 -next;
 :……;
 changeFigure:none -id=A1 -next;
 changeFigure:none -id=S1 -next;
-changeFigure:S2.png  -id=S2 -transform={"brightness":0.65,"position":{"x":-400,"y":80}} -next;
-changeFigure:A2开朗笑2.png  -right -id=A2k2 -transform={"brightness":0.4,"position":{"x":-150,"y":80}} -next;
+changeFigure:S2.png  -id=S2 -transform={"brightness":0.55,"position":{"x":-400,"y":80}} -next;
+changeFigure:A2开朗笑2.png  -right -id=A2k2 -transform={"brightness":0.55,"position":{"x":-150,"y":80}} -next;
 setTransform:{"brightness":1} -target=bg-main -duration=500 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
 千早爱音:嘻嘻嘻~~
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:……？
@@ -1031,7 +959,7 @@ changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"x":-40
 changeFigure:none -id=S2j -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:收不到我的道歉，也找不到我，最后白白被我骗了。;
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
 千早爱音:我一点也不担心哦。
 千早爱音:可能刚认识的时候会有点担心吧……不过，我很相信现在的Soyorin！;
@@ -1040,26 +968,26 @@ setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2k2 -duratio
 changeFigure:none -id=A2k2 -next;
 changeFigure:A2.png -right -id=A2 -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 千早爱音:那现在可以跟我说了吗？
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 长崎素世:……
 长崎素世:本来也不是什么要紧的事。;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
 :火光打在爱音的侧脸上，素世看见自己的倒影在对方的瞳孔里闪烁。;
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
 长崎素世:只是有点担心接下来的路而已。;
 长崎素世:虽然赢过了那个魔女，但拿也只是我们运气足够好而已，如果再和她战斗一次，我不知道我们还会不会赢……;
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 changeFigure:none -id=A2 -next;
 changeFigure:A2开朗笑2.png -right -id=A2k2 -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 千早爱音:我觉得会赢哦。
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
 changeFigure:none -id=S2t -next;
 changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:……不用说这种话安慰我。;
 长崎素世:（我明明没有保护好你。）;
 长崎素世:更何况，谁也不能保证接下来的冒险不会变得更危险。;
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2 -duration=0 -next;
 changeFigure:none -id=A2k2 -next;
 changeFigure:A2生气.png -right -id=A2s -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 千早爱音:才不是在安慰好吧，我是真的觉得我们一定会赢！;
@@ -1067,25 +995,25 @@ changeFigure:none -id=A2s -next;
 changeFigure:A2.png -right -id=A2 -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 千早爱音:总觉得，只要我们在一起的话，就什么事都做得到！;
 千早爱音:你看，Soyorin你有最强的魔法，小睦就跟哆啦A梦一样什么都拿得出来，而我嘛……我可以当诱饵哦！;
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:诱饵？
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
 千早爱音:就，就是吸引怪物注意力的那种啦！;
 千早爱音:毕竟我一点魔法都不会嘛，感觉就我派不上用场……;
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S2j -duration=0 -next;
 :爱音梗着脖子为自己辩解，却在火光中红了脸，素世看着她这幅窘迫的样子，莫名觉得有些好笑。胸腔里原本沉甸甸的不安，像是被这簇跳动的火焰烧出了缝隙，漏进几缕温暖的光。;
 changeFigure:none -id=S2j -next;
 changeFigure:S2轻笑.png -id=S2q -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:我觉得骑士才是冒险小队中的核心哦。;
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
 changeFigure:none -id=A2 -next;
 changeFigure:A2开朗笑2.png -right -id=A2k2 -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 千早爱音:真的吗？难得Soyorin会这么说。;
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:嗯，毕竟——;
@@ -1093,12 +1021,12 @@ changeFigure:none -id=S2t -next;
 changeFigure:S2轻笑.png -id=S2q -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
 长崎素世:有人在前面保护我们，就会觉得很安心。;
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
 changeFigure:none -id=A2k2 -next;
 changeFigure:A2脸红.png -right -id=A2l -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 千早爱音:嘻嘻~难得你会这么夸我，其实也没有这么厉害啦~
 千早爱音:不过果然少不了我吧！
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2l -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2l -duration=0 -next;
 changeFigure:none -id=S2q -next;
 changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 :素世望着她亮晶晶的眼睛愣神，那些藏在心底的焦虑突然变得虚幻，今天爱音无数次在前面保护自己的画面在眼前闪过。;
@@ -1106,39 +1034,39 @@ changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"x":-400,"y":8
 changeFigure:none -id=S2 -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:是哦，必不可少呢。
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2l -duration=0 -next;
 千早爱音:真拿你没办法，好吧！那我就继续带领你们冒险吧！
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2l -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2l -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 长崎素世:期待骑士大人的活跃哦。
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2l -duration=0 -next;
 千早爱音:嘻嘻~放心交给我吧！
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2l -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2l -duration=0 -next;
 :素世觉得喉咙发紧，她忽然意识到，那些对未来的不安，其实不过是被未知放大的恐惧。;
 :而现在，爱音歪着头露出的笑脸，比任何的承诺都要更令人安心。;
 changeFigure:none -id=S2t -next;
 changeFigure:S2眯眼笑.png -id=S2m -transform={"brightness":1,"position":{"x":-400,"y":80}};
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2m -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2m -duration=0 -next;
 changeFigure:none -id=A2l -next;
 changeFigure:A2眯眼笑.png -right -id=A2m -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 千早爱音:啊，Soyorin笑了！
 千早爱音:心情终于好点了吗？
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2m -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2m -duration=0 -next;
 changeFigure:none -id=S2m -next;
 changeFigure:S2轻笑.png -id=S2q -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 :素世摸了摸自己不自觉上扬的嘴角，胸腔里充盈着暖意。原来她需要的东西很少，一个可靠的背影、一个明媚的笑容，就足以让她不再畏惧前路。;
 长崎素世:只是觉得自己之前的担心有些没必要。
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
 changeFigure:none -id=A2m -next;
 changeFigure:A2开朗笑2.png -right -id=A2k2 -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 千早爱音:Soyorin不要变成胆小鬼哦，总是怕这个怕那个的。
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
 changeFigure:none -id=S2q -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:有时候我也想像你一样乐观呢。
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2k2 -duration=0 -next;
 千早爱音:哼哼，那就尽情向我学习吧！;
 changeFigure:none -id=A2k2 -next;
@@ -1149,57 +1077,57 @@ changeFigure:A2悲伤.png -right -id=A2b -transform={"brightness":1,"position":{
 千早爱音:不过……我不希望Soyorin老是觉得我每天没心没肺的呢……;
 千早爱音:我也是会觉得害怕的喔……;
 :手上传来细腻的触感，纤细的指尖强硬地挤进了素世的掌心里，随后像是找到避难所一样赖着不走。;
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 长崎素世:（很少见爱音会这样小心翼翼……）
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
 千早爱音:我一直在想，我们……真的是在游戏世界里吗？
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
 changeFigure:none -id=S2t -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:游戏世界……为什么突然这么说？
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
 千早爱音:因为一切都太真实了，不是吗？
 千早爱音:糖果的甜味，树林的花香，还有受伤之后的疼痛……
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
 changeFigure:none -id=S2j -next;
 changeFigure:S2皱眉.png -id=S2z -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:爱音……
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2z -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2z -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
 千早爱音:一切都真实得不像话，虽然宣传广告上面说过，「E·A·T」可以完美模拟我们的五感，让人分辨不出是游戏世界还是现实世界。;
 千早爱音:但万一，我们真的是来到一个存在魔法的异世界呢？
 :爱音把头埋进膝盖里，声音像是闷了一层厚被子，素世看不见她的脸，但从攥紧的手中她能感受到爱音内心的担忧。;
 千早爱音:如果是游戏的话，死了也只会触发Game Over，然后退出游戏，可万一……
 千早爱音:万一我们不是在游戏里，要是死了的话，就会，就会……
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S2z -duration=0 -next;
 :剩下的话被哽咽吞没，但素世知道那些未说出口的词语是什么。;
 长崎素世:爱音，没关系的，我们都在——
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2z -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2z -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
 千早爱音:就是因为你们在才会有关系！
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
 changeFigure:none -id=S2z -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:……！
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
 :爱音猛地抬起头，在火光的照耀下，素世看见爱音眼角的水花，她感觉自己的心脏像是突然被人掐住了一样。;
 千早爱音:明明……是我连累你们来到这里的，不是吗？
 千早爱音:如果不是我，你们才不会遇到这种事的吧？
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S2j -duration=0 -next;
 长崎素世:不要这么说，我和小睦从来都没有这么想过……
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
 千早爱音:但我会这么想。
 千早爱音:一开始吵着要去游戏店的就只是我而已，那样的话，应该被带到这里的也应该只有我吧！
 千早爱音:为什么要把你们两个也扯进来？
 千早爱音:这种事……真的糟透了……
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S2j -duration=0 -next;
 :素世只觉得喉咙发紧，胸腔里翻滚的情绪几乎要冲破喉咙。心疼？还是感同身受？她分辨不出这股感情的真貌，但她不想再听下去了。;
 :借着两人紧握在一起的双手，她将爱音小心地拽过来，她感觉到对方的身体僵了一瞬，但还是顺从地被她拉到了怀里。;
@@ -1207,13 +1135,13 @@ changeFigure:none -id=S2j -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:不想说的话……那就不要再说下去了。
 长崎素世:都哭得不成样子了，就别逞强了。
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 :她紧紧抱住怀里不断颤抖的身躯，爱音的双手死死揪住她的衣襟，指节泛白，温热的水珠滴在素世手背上，烫得吓人。;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
 千早爱音:可是，我不说的话，Soyorin不就不知道我在想什么了吗？
 千早爱音:Soyorin跟我坦白了你在担心什么，我也……我也想把这些话告诉你。
 千早爱音:我就是想说……
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 :素世的下巴抵着爱音的头顶，听到她话里的哽咽后，素世的声音也不自觉地发颤。;
 长崎素世:有些话，不用说就会知道的。;
@@ -1222,102 +1150,102 @@ setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S2t -duration
 长崎素世:你明白了吗？无论这里是游戏世界还是异世界，都是我们自己选择要做你的队友的。
 :素世说着，一边腾出一只手，颤抖地轻轻掰开爱音紧紧攥着的拳头，用手包着对方冰凉的手，贴在了自己的脸颊上。;
 长崎素世:所以，不要再一个人害怕了，胆小鬼。
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
 :爱音吸了吸鼻子，嘴里的话哽咽了好几次才顺利说出来。;
 千早爱音:Soyorin……好犯规……明明你就是大晚上自己躲在外面偷偷哭……
 千早爱音:不许说我胆小鬼……
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
 changeFigure:none -id=S2t -next;
 changeFigure:S2轻笑.png -id=S2q -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 :听着怀里闷闷的控诉，素世的嘴角不自觉地上扬，心里却酸酸涩涩的。她轻轻摇晃着爱音，像是在哄一只受惊的猫咪。;
 长崎素世:那要做个约定吗？
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
 千早爱音:……约定？
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
 长崎素世:嗯，胆小鬼之间的约定。
 长崎素世:我害怕的时候，你就挡在我面前，你害怕的时候，我会牵紧你的手。
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
 千早爱音:可以抱抱我吗？
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2b -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:这种时候还要得寸进尺吗？
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2t -duration=0 -next;
 changeFigure:none -id=A2 -next;
 changeFigure:A2.png -right -id=A2 -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 :爱音抬起头，泛红的眼睛还噙着泪花，却努力地扯出一抹笑。;
 千早爱音:嘛，算了，反正Soyorin肯定会忍不住抱我的。
 千早爱音:毕竟像我这样完美的美少女，肯定是人见人爱的嘛。
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2 -duration=0 -next;
 changeFigure:none -id=S2t -next;
 changeFigure:S2轻笑.png -id=S2q -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
 长崎素世:是是，爱哭鼻子的美少女。
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
 changeFigure:none -id=A2 -next;
 changeFigure:A2脸红.png -right -id=A2l -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 千早爱音:对了！Soyorin~
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2l -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2l -duration=0 -next;
 changeFigure:none -id=S2q -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:怎么了？
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2l -duration=0 -next;
 千早爱音:拉钩！要是违反约定，就罚她给小乐奈买一个月的抹茶巴菲！
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2l -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2l -duration=0 -next;
 changeFigure:none -id=S2j -next;
 changeFigure:S2轻笑.png -id=S2q -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 长崎素世:一言为定。
 :素世勾住爱音的小拇指，感受着对方用力的拉扯，仿佛要把这份约定刻进骨头里。;
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-150,"y":80}} -target=A2l -duration=0 -next;
 千早爱音:这样感觉安心好多了~
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2l -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2l -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
 长崎素世:嗯……早点休息吧。
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2q -duration=0 -next;
 changeFigure:none -id=A2l -next;
 changeFigure:A2可怜.png -right -id=A2kl -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 千早爱音:不要！
 千早爱音:我，我想……
 :爱音往素世怀里靠了靠，用小拇指勾起素世与她拉钩的手，放在自己腰间。;
-setTransform:{"alpha":0,"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2kl -duration=0 -next;
+setTransform:{"alpha":0,"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2kl -duration=0 -next;
 changeFigure:none -id=A2kl -next;
 changeFigure:A2脸红.png -right -id=A2l -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 千早爱音:我想……再多呆一会。
-setTransform:{"brightness":0.4,"position":{"x":-150,"y":80}} -target=A2l -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-150,"y":80}} -target=A2l -duration=0 -next;
 changeFigure:none -id=S2q -next;
 changeFigure:S2脸红.png -id=S2l -transform={"brightness":1,"position":{"x":-400,"y":80}} -next;
 changeFigure:none -id=A2l -next;
-changeFigure:A2.png -right -id=A2 -transform={"brightness":0.4,"position":{"x":-150,"y":80}} -next;
+changeFigure:A2.png -right -id=A2 -transform={"brightness":0.55,"position":{"x":-150,"y":80}} -next;
 :夜风渐息，爱音的呼吸渐渐平稳，温热的呼吸均匀地喷洒在素世颈间。素世低头看着怀里沉睡的人，睫毛上仍挂着未干的泪珠，嘴角却微微上扬，像是做着甜美的梦。;
 长崎素世:（看来，有些话大概要等到天亮再说了。）
 长崎素世:（晚安，笨蛋。）
-setTransform:{"brightness":0.65,"position":{"x":-400,"y":80}} -target=S2l -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2l -duration=0 -next;
 setTransform:{"brightness":0} -target=bg-main -duration=500 -next;
 jumpLabel:label_last;
 label:label_Mutsumi1;
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2 -duration=0 -next;
 changeFigure:M2.png  -left -id=M2 -transform={"brightness":1,"position":{"x":270,"y":80}} -next;
 若叶睦:素世，睡不着吗？
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 :素世回过头，看见小睦抱着一块毯子站在帐篷门口，篝火将她的影子拉的老长。;
 长崎素世:小睦？抱歉，是被我吵醒的吗？
 playEffect:015/fire-whoosh.mp3 -next;
 :素世连忙将手里的树枝丢入篝火里，溅起一片火星。;
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
 changeFigure:none -id=M2 -next;
 changeFigure:M2sad.png  -left -id=M2s -transform={"brightness":1,"position":{"x":270,"y":80}} -next;
 若叶睦:醒来的时候发现素世不在。
 若叶睦:有点担心。
 :小睦走到素世身边坐下，将怀里的毯子轻轻盖在素世身上，眼睛里透露着担忧。;
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2s -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2s -duration=0 -next;
 changeFigure:none -id=S2j -next;
 changeFigure:S2皱眉.png -id=S2z -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:谢谢小睦……
@@ -1325,19 +1253,19 @@ changeFigure:S2皱眉.png -id=S2z -transform={"brightness":1,"position":{"x":400
 changeFigure:none -id=S2z -next;
 changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:爱音呢？她还在睡吗？
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2 -duration=0 -next;
 changeFigure:none -id=M2s -next;
 changeFigure:M2.png  -left -id=M2 -transform={"brightness":1,"position":{"x":270,"y":80}} -next;
 若叶睦:嗯，睡得很香。
 若叶睦:在你的位置上躺着。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S2 -duration=0 -next;
 长崎素世:（我应该没出来多久吧……）
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2 -duration=0 -next;
 changeFigure:none -id=M2 -next;
 changeFigure:M2nervous.png  -left -id=M2n -transform={"brightness":1,"position":{"x":270,"y":80}} -next;
 若叶睦:不高兴？
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2n -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2n -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S2 -duration=0 -next;
 长崎素世:也没有不高兴，只是想起了一些事……
 :她扯出一丝笑容，却撞上了小睦关切的目光，心脏猛地颤了颤。这个总是沉默的女孩，似乎总能看穿她所有的欲言又止。;
@@ -1345,11 +1273,11 @@ changeFigure:none -id=S2 -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:……
 长崎素世:要是说出口的话，总觉得会有些矫情。
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
 changeFigure:none -id=M2n -next;
 changeFigure:M2sad.png  -left -id=M2s -transform={"brightness":1,"position":{"x":270,"y":80}} -next;
 若叶睦:我不会这么想。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2s -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2s -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
 长崎素世:我知道，但果然还是……
 playEffect:01/火苗5s.mp3 -next; 
@@ -1358,30 +1286,30 @@ playEffect:01/火苗5s.mp3 -next;
 长崎素世:（小睦的话，应该不会说什么吧？）
 长崎素世:（不过这样真的好吗？）
 :她在心底疯狂盘算着借口，指尖无意识地扣着毯子边缘，小睦眼里的诚恳让每个谎言都变得沉重。;
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
 changeFigure:none -id=M2s -next;
 changeFigure:M2.png  -left -id=M2 -transform={"brightness":1,"position":{"x":270,"y":80}} -next;
 若叶睦:我小时候，经常会跟着父母去上各种各样的节目。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 changeFigure:none -id=S2t -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:诶？小睦？
 :惊愕让她抬起头，正对上小睦平静的侧脸，篝火照亮了她的脸庞，却遮不住眼底的惆怅。;
 长崎素世:（怎么突然说起这个来了？）
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 若叶睦:艺能，采访，亲子，小孩子能参加的通告我都做过。
 若叶睦:有时候在后台睡着了，醒来之后就发现已经到了新的城市。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
 长崎素世:有点没法想象呢，从小就要这么忙碌。
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 若叶睦:嗯。
 若叶睦:素世可以教我烤棉花糖吗？
 :小睦仰起脸，手里拿着那包露营用棉花糖。;
 :因为爱音执着于锻炼自己的烤棉花糖技术，棉花糖被她烤掉了大半，包装袋里仅剩孤零零的几枚，但也因此让爱音现在能烤得有模有样。;
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
 长崎素世:为什么想学这个？;
 changeFigure:none -id=S2j -next;
@@ -1396,10 +1324,10 @@ changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":400
 :她抽出一根细长的树枝，仔细地将旁枝折去，只留下光溜溜的主干，余光瞥见小睦专注的神情，正目不转睛地盯着她手上的动作看。;
 :篝火依旧灼热地燃烧着，素世将棉花糖小心地串在树枝上，随后递给小睦。;
 长崎素世:试试吧，不要靠得太近，要慢慢地靠近，用外围的温度去烤。
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 若叶睦:像这样？
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
 长崎素世:拿太远了哦，这样的话……;
 changeFigure:none -id=S2t -next;
@@ -1410,18 +1338,18 @@ playEffect:015/烤.mp3 -next;
 changeFigure:none -id=S2z -next;
 changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:烤的时候要慢慢转动树枝，让热量均匀地裹住棉花糖。
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 若叶睦:嗯。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 :糖球的表面浮起细密的气泡，棉花糖渐渐裹上一层金黄色的外衣。;
 changeFigure:none -id=S2 -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:（好熟悉……）
 长崎素世:（小时候，妈妈也是这么教我烤棉花糖的。）
 :;
-setTransform:{"alpha":0,"brightness":0.4,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
-setTransform:{"alpha":0,"brightness":0.4,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"alpha":0,"brightness":0.55,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"alpha":0,"brightness":0.55,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":0} -target=bg-main -duration=500 -next;
 :（回忆）;
 妈妈:小素世，烤棉花糖一定要小心小心再小心！;
@@ -1432,7 +1360,7 @@ setTransform:{"brightness":0} -target=bg-main -duration=500 -next;
 ;
 setTransform:{"brightness":1} -target=bg-main -duration=500 -next;
 setTransform:{"alpha":1,"brightness":1,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 长崎素世:（原来都已经过去这么久了吗。）
 长崎素世:（现在想起来，怎么会有人喜欢吃烤成那个样子的棉花糖呢？）
 长崎素世:（不过妈妈为了照顾我的情绪，一定会把我烤坏的棉花糖吃掉的吧？）
@@ -1443,35 +1371,35 @@ changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"x":400
 :棉花糖在火光中渐渐膨胀，甜蜜的香气混着篝火的焦香蔓延开，素世这才察觉自己的手握得太紧了，指尖因用力攥紧而泛白。;
 :她慌忙松开小睦的手，却发现手心已经泛起一层细密的薄汗。;
 长崎素世:烤，烤好了。
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 若叶睦:很香。
 :小睦将棉花糖凑到嘴边，小心地吹凉，随后轻轻咬了一口，即便在睡前已经吃了不少，但是现在再吃一次，这股美味仍是让她两眼放光。;
 若叶睦:好吃。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 changeFigure:none -id=S2j -next;
 changeFigure:S2轻笑.png -id=S2q -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:你喜欢就好，想吃的话我再多给小睦烤一些吧？
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 若叶睦:我想学。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 changeFigure:none -id=S2q -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:差点忘了是在教小睦烤棉花糖了……刚才小睦看明白了吗？其实不难的，就是要耐心一些，对小睦来说的话应该很容易吧。
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 若叶睦:嗯。
 若叶睦:我很羡慕素世。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 changeFigure:none -id=S2t -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:我有什么值得小睦羡慕的吗？
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 若叶睦:素世的妈妈教素世烤棉花糖。
 若叶睦:一定是个很温柔的人。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
 长崎素世:妈妈……
 changeFigure:none -id=S2j -next;
@@ -1480,117 +1408,117 @@ changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":400
 :记忆的匣子被打开，素世自己也吓了一跳，那些被藏在深处的记忆碎片，此刻正随着棉花糖的香气纷纷扬扬地飘落。;
 长崎素世:妈妈刚教我的时候，我好像还说过以后每年都要做给妈妈吃。
 长崎素世:不过，在那之后家里发生了一些事，妈妈的工作越来越忙，烤棉花糖也有好几年没做过了。
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 若叶睦:但是，她一定很爱素世。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 changeFigure:none -id=S2t -next;
 changeFigure:S2脸红.png -id=S2l -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:嗯，我知道哦。
 changeFigure:none -id=S2l -next;
-changeFigure:S2.png -id=S2 -transform={"brightness":0.65,"position":{"x":400,"y":80}} -next;
+changeFigure:S2.png -id=S2 -transform={"brightness":0.55,"position":{"x":400,"y":80}} -next;
 changeFigure:none -id=M2 -next;
 changeFigure:M2sad.png  -left -id=M2s -transform={"brightness":1,"position":{"x":270,"y":80}} -next;
 :小睦低下头，又咬了一口香甜的棉花糖，但这次却似乎尝出了一丝苦味。;
 若叶睦:美奈美……
 若叶睦:总是会说，"小睦是好孩子"。
 若叶睦:然后，就会带我去上节目，因为我是"好孩子"，所以不管怎样我都要去。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2s -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2s -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:那位森美奈美啊……
 长崎素世:看不出来会是那样的人，完全不顾小睦的想法……
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2s -duration=0 -next;
 若叶睦:"好孩子"不会有意见。;
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2s -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2s -duration=0 -next;
 changeFigure:none -id=S2j -next;
 changeFigure:S2生气.png -id=S2s -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:又不是小睦自己想当好孩子的。
 :素世望着小睦垂落的睫毛，忽然想起那位在电视上见过的美奈美小姐——永远穿着精致的打扮，带着华丽的妆容，笑容完美得像是精心设计过的角度。;
 长崎素世:小睦……从来不是任何人的工具。
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2s -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2s -duration=0 -next;
 changeFigure:none -id=M2s -next;
 changeFigure:M2.png  -left -id=M2 -transform={"brightness":1,"position":{"x":270,"y":80}} -next;
 若叶睦:如果当个"好孩子"就可以得到想要的东西……
 若叶睦:那我很愿意去做一个"好孩子"。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 changeFigure:none -id=S2s -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:小睦想要的东西……？
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 若叶睦:我想要学烤棉花糖。
 changeFigure:none -id=M2 -next;
 changeFigure:M2sad.png  -left -id=M2s -transform={"brightness":1,"position":{"x":270,"y":80}} -next;
 若叶睦:但是美奈美没教过我，她总说"小睦以后要成为大明星，不能学这种乱七八糟的东西"。
 changeFigure:none -id=M2s -next;
-changeFigure:M2.png  -left -id=M2 -transform={"brightness":0.7,"position":{"x":270,"y":80}} -next;
+changeFigure:M2.png  -left -id=M2 -transform={"brightness":0.58,"position":{"x":270,"y":80}} -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
 长崎素世:（所以才会说羡慕我吗……）
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 :小睦低下头，拿出一颗新的棉花糖，学着素世的样子小心地穿在树枝上。;
 若叶睦:素世能教我，谢谢。
 playEffect:015/烤.mp3 -next;
 :她顿了顿，将手里的树枝靠向篝火，棉花糖开始加热，这一次她没有靠得太远，而是放到了一个合适的距离。;
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
 :素世看着小睦专注的侧脸，糖球在树枝上慢慢变黄，她转动树枝的手腕很稳，但仍透露着一股小心翼翼的僵硬——那是习惯了被安排好一切的好孩子第一次自己掌握温度时的忐忑。;
 changeFigure:none -id=S2j -next;
 changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:小睦，你知道烤棉花糖最有趣的是什么吗？
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 若叶睦:不知道。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S2 -duration=0 -next;
 长崎素世:是——允许失误。
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 若叶睦:诶？
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S2 -duration=0 -next;
 playEffect:015/fire-whoosh.mp3 -next;
 :素世故意抓起小睦的手，将棉花糖送进火苗里，糖球瞬间变得焦黑。;
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2 -duration=0 -next;
 changeFigure:none -id=M2 -next;
 changeFigure:M2nervous.png  -left -id=M2n -transform={"brightness":1,"position":{"x":270,"y":80}} -next;
 若叶睦:会，会烤坏的！
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2n -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2n -duration=0 -next;
 changeFigure:none -id=S2 -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:但是烤坏的棉花糖也有烤坏的吃法哦。
 :她牵着小睦的手，轻轻啃了一口焦黑的棉花糖，然后将口中的东西吐在一旁。;
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2n -duration=0 -next;
 若叶睦:素世，吐掉了……果然不能吃吧。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2n -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2n -duration=0 -next;
 changeFigure:none -id=S2t -next;
 changeFigure:S2轻笑.png -id=S2q -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:不是这样哦，小睦，你来吃一口吧。
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2n -duration=0 -next;
 若叶睦:可是……做得不够好……
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2n -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2n -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
 长崎素世:会这么想，是因为小睦没吃过哦。
 :素世轻轻握着小睦的手，引导着漆黑一块的棉花糖靠近小睦的唇边。;
 长崎素世:来，啊——
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
 changeFigure:none -id=M2n -next;
 changeFigure:M2shy.png  -left -id=M2shy -transform={"brightness":1,"position":{"x":270,"y":80}} -next;
 :小睦闭上眼，小心翼翼地咬下一口，却没有尝到预想之中的苦味，反而是一阵甜软的香气在口中融化。;
 :她睁开眼，举起手中的树枝，却发现树枝上烤坏的糖球出现一个缺口，焦黑的外壳被素世咬去，她刚才咬到的是里面露出的柔软雪白的糖芯。;
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2shy -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2shy -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
 长崎素世:外面烤坏的话，就把焦掉的部分咬掉，里面的芯依旧会很好吃。
 长崎素世:就像小睦没必要一直做个好孩子，偶尔做点乱七八糟的东西，也会很棒。
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
 changeFigure:none -id=M2shy -next;
 changeFigure:M2.png  -left -id=M2 -transform={"brightness":1,"position":{"x":270,"y":80}} -next;
 若叶睦:……素世，会不会觉得我很笨，连烤棉花糖都要学。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 changeFigure:none -id=S2q -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:才不笨哦。
@@ -1599,11 +1527,11 @@ changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":400
 changeFigure:none -id=S2t -next;
 changeFigure:S2笑.png -id=S2x -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:但是妈妈第一时间并不是骂我，而是抱住我，问我有没有吓到。
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2x -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2x -duration=0 -next;
 changeFigure:none -id=M2 -next;
 changeFigure:M2sad.png  -left -id=M2s -transform={"brightness":1,"position":{"x":270,"y":80}} -next;
 若叶睦:美奈美……从来没问过我怕不怕。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2s -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2s -duration=0 -next;
 changeFigure:none -id=S2x -next;
 changeFigure:S2叹气.png -id=S2t -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:我想，她也只是还没学会去做一个好妈妈。;
@@ -1611,51 +1539,51 @@ changeFigure:none -id=S2t -next;
 changeFigure:S2笑.png -id=S2x -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:但是小睦已经学会要怎么去做一个好孩子了——;
 长崎素世:不是按别人所谓完美的要求，而是按照自己的心。;
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2x -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2x -duration=0 -next;
 changeFigure:none -id=M2s -next;
 changeFigure:M2smile.png  -left -id=M2sm -transform={"brightness":1,"position":{"x":270,"y":80}} -next;
 :小睦突然笑了，带着释然的轻快。她举起手中的树枝，将剩下的棉花糖整个吃下。;
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2sm -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2sm -duration=0 -next;
 changeFigure:none -id=S2x -next;
 changeFigure:S2惊讶.png -id=S2j -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:小睦？！那样吃会很苦的！
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2j -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2sm -duration=0 -next;
 若叶睦:很苦……
 若叶睦:但是，也很甜。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2sm -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2sm -duration=0 -next;
 :素世看着小睦的笑容，微微愣神，随后也露出一抹无奈的笑容。;
 changeFigure:none -id=S2j -next;
 changeFigure:S2轻笑.png -id=S2q -transform={"brightness":1,"position":{"x":400,"y":80}} -next;
 长崎素世:总觉得我说了很多余的话，其实小睦一直都知道这些事的吧？
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
 changeFigure:none -id=M2sm -next;
 changeFigure:M2.png  -left -id=M2 -transform={"brightness":1,"position":{"x":270,"y":80}} -next;
 若叶睦:不知道，像烤棉花糖，我也不知道。
 若叶睦:素世，回去以后，我想把我烤的棉花糖给美奈美吃。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
 长崎素世:嗯，到时候我就陪你去吧。
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 若叶睦:到时候，我们一起做。
 若叶睦:我也会陪素世……把烤棉花糖给你妈妈吃。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
 长崎素世:是吗……
 长崎素世:我很期待哦。
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 若叶睦:回去休息前，我想再练一次。
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
 长崎素世:嗯，无论要练多少次。
 :素世将新的棉花糖递给小睦。;
 长崎素世:我都会一直陪着你的。
-setTransform:{"brightness":0.65,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=S2q -duration=0 -next;
 changeFigure:none -id=M2 -next;
 changeFigure:M2smile.png  -left -id=M2sm -transform={"brightness":1,"position":{"x":270,"y":80}} ;
-setTransform:{"brightness":0.7,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
+setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 jumpLabel:label_last;
 label:label_SP1;
 playEffect:015/营火.mp3 -id=营火 -next;
@@ -1666,7 +1594,7 @@ setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 :素世坐在篝火旁边，身形逐渐蜷起。;
 playEffect: -id=营火;
 长崎素世:（现实世界……一切顺利吗？）
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2 -duration=0 -next;
 :某个身影在脑海中逐渐成型，这个身影是？;
 choose: 椎名立希:label_Taki|高松灯:label_Tomori;
 ;
@@ -1677,167 +1605,167 @@ setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:……
 长崎素世:（虽然不想承认，但小立希也在的话，就不会这么焦虑了吧？）
 长崎素世:（毕竟，她是Mygo……不，我认识的人中，最可靠的一位呢。）
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2 -duration=0 -next;
 :回忆在眼前放映，素世深吸一口气，仿佛置身往昔。;
 :;
 changeFigure:none -id=S2 -next;
 changeBg:间章/bg00470.png;
-changeFigure:S1_normal.png -id=S1 -transform={"brightness":0.4,"position":{"x":-400,"y":80}} -next;
-changeFigure:X1.png -right -id=X1 -transform={"brightness":0.4,"position":{"x":400,"y":80}} -next;
+changeFigure:S1_normal.png -id=S1 -transform={"brightness":0.55,"position":{"x":-400,"y":80}} -next;
+changeFigure:X1.png -right -id=X1 -transform={"brightness":0.55,"position":{"x":400,"y":80}} -next;
 :久病新愈的隔天，在月之森的校门口，她看见了椎名立希的身影。;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:哎？
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:怎么，我不可以来？;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:……也不是啦。只是在这里看到小立希，难免会有点惊讶。
 长崎素世:毕竟，有上次的经历，怎么都会觉得你大概是来吵架的吧。
 :素世煞有介事地抚平胸前的领巾。;
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 :太清楚她在指哪件事，立希的眉毛拧紧。;
 椎名立希:你在找茬吗？;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:实话实说而已哦。
 长崎素世:那么，为什么？
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:什么"为什么"？;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:有什么需要专门跑到月之森来说的事情吗？
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:还不是因为有的人翘了三天份的练习，居然还有脸问。;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:感冒啦……我不是在群里说了吗？
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:哼，没有别的原因？;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:再怎么说也不会故意不去的……我可以把诊断单给你看哦。
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:……;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:小立希？
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 :对方沉默着，似乎在纠结什么心事，漂亮的紫瞳不自觉下垂，躲避队友的探询。;
 椎名立希:额、那个、;
 椎名立希:先声明我绝对没有别的意思。;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:哎，怎么了吗？
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:不会又是什么事惹你伤心了吧……;
 :她压低声音，甚至不自然地攥紧掌心。;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:……
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:（糟糕，不会真的说中了吧！）;
 椎名立希:抱歉，我、都不知道……;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:噗、
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:哎？;
 :虽然不知道对面是怎么想的，但自己大概被捉弄了。意识到这一点，立希恼火地瞪回去。素世倒全不在意，狡黠地扬起眉毛。;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:真的只是感冒啦。
 长崎素世:在你眼里，我有这么容易伤心吗？
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:啧、谁知道呢？;
 椎名立希:装病翘课在家的前科犯。;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:哎，好过分……
 长崎素世:明明某人也会早退吧？
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:这才不是一回事……不是。;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:好好，我知道啦。
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 :对面轻飘飘的语气让人不爽。立希扬了扬眉毛，终究还是收敛了情绪。;
 椎名立希:……总之。虽然你大概也不会这样做。;
 椎名立希:如果你需要找人聊聊什么的，我可以……;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:（哎，这么好？）
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:可以给你推荐好的心理服务中心，我姐姐的同学期末周好像经常去……哎哟！;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 :素世毫不留情地踩在她的脚上。立希快蹦起来了。;
 :在她真要发火前，那双幽幽的蓝眼睛却扫过来了。;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 长崎素世:小立希说什么呢。
 长崎素世:亏我还期待了一分钟。
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:我又不是专业的！当然要交给专业人士处理！;
 :话是这么说，紫眸却不自在地别过去。;
 椎名立希:额，如果你很需要，那再说吧。;
 椎名立希:毕竟这是队友的职责。;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:队友的职责吗……还真是无情呢。
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:随你怎么说好了，快点，今天还要练习呢。;
 椎名立希:因为生病松懈了好几天……我今天会格外注意贝斯部分的。;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:知道啦。
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:（这人怎么笑得这么奇怪？）;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:哼哼……
 长崎素世:那句话，我收下了哦。
 长崎素世:小立希要随叫随到为我解决伤心哦。
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:哈？我什么时候答应这种事了。;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:这就是我所理解的意思哦。
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:（这家伙！）;
 椎名立希:先不说别的，随随便便就感冒了，你平时真的有好好注意身体吗？;
 椎名立希:明明老强迫大家一起喝蔬菜汁……喂！;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 :素世的手灵巧地绕到鼓手提包的侧面，从里面取出了半瓶咖啡。;
 长崎素世:（还是冰的……）
 长崎素世:有人昨晚又熬夜了吧？
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:作曲的事情啦、别那样看我。;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:好嘛，算我不注意，有人也没资格说我。
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:小学生吗你？还有，快还给我！;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 changeBg:间章/bg00775.png;
 playEffect:015/汽笛.mp3 -next;
 :两个人在道路边缘打闹起来，险些和汽车相擦。;
@@ -1845,33 +1773,33 @@ playEffect:015/汽笛.mp3 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 长崎素世/椎名立希:抱歉！;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 长崎素世:一起被骂了呢。
 长崎素世:居然是和小立希……好新鲜。
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:都怪你！;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:好啦好啦，我们走吧。
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:快把饮料还我。;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:到了就还你。
 长崎素世:今晚不许熬夜哦。
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:为什么我要被你管着啊？;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:也许，"队友的职责"？
-seaTransform:{"brightness":0.4,"position":{"y":80}} -target=S1 -duration=0 -next;
+seaTransform:{"brightness":0.55,"position":{"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 椎名立希:（这个人……）;
 椎名立希:（要是贝斯部分出错了，我一定要让她好看！）;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 :两个人继续斗嘴，脚步却合拍异常，宛如鼓与贝斯的交鸣，在街道上留下一串和谐的足音。;
 :;
 changeFigure:none -id=S1 -next;
@@ -1891,7 +1819,7 @@ setTransform:{"brightness":1,"position":{"y":80}} -target=S2t -duration=0 -next;
 长崎素世:真想快点回去啊。
 长崎素世:（想见到可以依靠的人。）;
 长崎素世:（想见到……你。）;
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2t -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2t -duration=0 -next;
 changeFigure:none -id=S2t;
 jumpLabel:label_last;
 label:label_Tomori;
@@ -1900,7 +1828,7 @@ setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
 长崎素世:（这怎么不算一种迷路呢？）
 长崎素世:（这种时候……）
 长崎素世:（好希望能听到小灯唱歌啊。）
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2 -duration=0 -next;
 :失落的时候，灯总能带领大家继续前行。;
 :那么小小的、不成熟的、连自己也不知道如何是好、对分离害怕得发抖的灯，却会拼命发出穿透迷惘的歌声。;
 :那是素世最为眷恋的、联结过去与未来的歌声。;
@@ -1910,8 +1838,8 @@ changeFigure:none -id=S2 -next;
 changeBg:间章/bg01111.png;
 playEffect:015/雨.MP3 -id=rain -next;
 :（Ring的休息室）;
-changeFigure:S1_normal.png -id=S1 -transform={"brightness":0.4,"position":{"x":-400,"y":80}} -next;
-changeFigure:D1.png -right -id=D1 -transform={"brightness":0.4,"position":{"x":400,"y":80}} -next;
+changeFigure:S1_normal.png -id=S1 -transform={"brightness":0.55,"position":{"x":-400,"y":80}} -next;
+changeFigure:D1.png -right -id=D1 -transform={"brightness":0.55,"position":{"x":400,"y":80}} -next;
 :立希和爱音在前台讨论舞台效果的问题，乐奈又不知道哪里去了，休息室里只有素世和灯。;
 :灯趴在地上，用蜡笔在笔记本上涂涂画画，这是她寻找歌词灵感的独特方式。;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
@@ -1920,7 +1848,7 @@ setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=
 长崎素世:（一直出错，给大家添麻烦了呢。）
 长崎素世:（回家再练练吧，也到时间了。）
 长崎素世:小灯，我先走了，麻烦你和小立希她们说一下。
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 :大概是雨声喧闹又心不在焉，灯一开始并没有听清她的声音。;
 playEffect: -id=rain -next;
@@ -1929,85 +1857,85 @@ playEffect: -id=rain -next;
 高松灯:（！）;
 高松灯:不要走！！！;
 :在素世的指尖触及门把前，灯用力地扑上来，把她紧紧抱住。;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:哎？
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 高松灯:不要走！小素世！;
 高松灯:说好了一辈子，不能走！;
 :她扣住素世身体的双掌是那么用力，以至于素世都感到有点痛了。;
 :比起这个，更伤脑筋的是，灯好像一副快哭出来的表情。;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:小灯，冷静下来。
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 高松灯:不能走……;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:真是的，我只是想先回家啦，不是要离开Mygo。
 :她转过身，轻轻抚摸着灯的后脑，指尖下移，安抚对方因紧张而弓直的脊背。;
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 高松灯:……;
 :对方什么也没说，只是把脑袋贴在她身上，随着彼此的呼吸和心跳一起颤抖。;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:是真的哦，不会走的。
 长崎素世:（这个眼神……好难拒绝。）
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 高松灯:约定了一辈子……;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:嗯，会守约的，小灯不信任我吗？
 长崎素世:好伤心哦……
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 :明明只是想逗一下对方，灯却惶恐地道起歉来。;
 高松灯:小素世，对不起，我不是……;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:（好像逗过头了……千万别给小立希看到了。）
 长崎素世:没有怪小灯啦……小灯？
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 :灯拉起她的手，用尽全力勾起她的小指。;
 高松灯:（我居然不信任小素世……约定被我破坏了！）;
 高松灯:一辈子，再缔结一次。;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:哎？我真的没有在怪小灯啦，我……
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 高松灯:小素世，不愿意吗？;
 :对方耷拉着脑袋，素世感到一阵不忍。灯就是乐队的心脏，如果她不高兴，所有人都会一起伤心。;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:好啦好啦，那再约定一次。
 长崎素世:拉勾，我会和小灯组一辈子乐队哦。说谎的人要吞……
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 高松灯:小素世不用吞银针！;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:（没有惩罚的誓言呢，这样真的好吗？）
 长崎素世:（不过……）
 长崎素世:（如果让小灯露出刚才那样的表情，对我而言就是最大的惩罚了吧。）
 长崎素世:约定好了吧？那么，我就先回……
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 高松灯:还有这个！也要！;
 :高松灯从地上揪起笔记本，给她指上面的画。;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:我们五个人吗？真可爱。
 长崎素世:「一辈子宣言署名处」？这是？
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 高松灯:那个、上课时，老师说这样约定更有用……;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:（……那是指法律合同吧！）
 长崎素世:（但是、）
@@ -2015,30 +1943,30 @@ setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=
 长崎素世:（只要小灯能安心。）
 :她接过灯递来的蜡笔，在已经署上的"高松灯"旁，仔仔细细添上"长崎素世"的名字。;
 长崎素世:这样就可以了吧，嗯？
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 :灯抱着那个笔记本，双眼闪闪发光。素世忍不住又摸摸她的头顶。;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:那我就……
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 千早爱音:哇，你们在说什么悄悄话！
 :大门突然开启，一个过于活泼的身影蹦进来，素世叹了口气。;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 高松灯:小爱……;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:（走不了了……）
 长崎素世:在签卖身契哦。
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 千早爱音:这么好玩，Tomorin，也给我一只蜡笔！
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 高松灯:嗯！;
 :两个小脑袋凑在一起，叽叽喳喳地聊起素世听不清的话题。;
-setTransform:{"brightness":0.4,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:（到底谁和谁说悄悄话啊！）
 长崎素世:（但是……）
 长崎素世:（这样也不错就是了。）
-setTransform:{"brightness":0.4,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 :她轻抚尾指，那儿似乎还残留着高松灯情感的热度。;
 :;
 changeFigure:none -id=S1 -next;
@@ -2062,7 +1990,7 @@ changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"y":80}} -next
 changeFigure:none -id=S2 -next;
 changeFigure:S2笑.png -id=S2x -transform={"brightness":1,"position":{"y":80}} -next;
 长崎素世:（正在等我回去。）
-setTransform:{"brightness":0.65,"position":{"y":80}} -target=S2x -duration=0 -next;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2x -duration=0 -next;
 changeFigure:none -id=S2x -next;
 jumpLabel:label_last;
 label:label_last;
