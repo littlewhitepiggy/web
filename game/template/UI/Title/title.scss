@@ -18,8 +18,10 @@ align-items: flex-start;
 flex-flow: column;
 transition: background 0.75s;
 padding-left: 120px;
-top: 190px;
+top: 255px;
 
+&:hover {
+}
 }
 
 .Title_button {
@@ -30,7 +32,6 @@ cursor: pointer;
 padding: 1em 2em 1em 2em;
 margin: 20px 0;
 transition: all 0.33s;
-background: rgba(255, 255, 255, 0.15);
 backdrop-filter: blur(5px);
 border-radius: 100px 100px 100px 100px;
 transform: skewX(0deg);
@@ -41,12 +42,12 @@ padding: 1em 6em 1em 3em;
 }}
 
 .Title_button_text {
-color: transparent;
+color: #00000000;
 background: linear-gradient(135deg, #fdfbfb 0%, #dcddde 100%);
 -webkit-background-clip: text;
 padding: 0 0.5em 0 0.5em;
 font-size: 200%;
-font-family: WebgalUI, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+font-family: "WenQuanYi Bitmap Song 14px",serif;
 letter-spacing: 0.15em;
 &:hover {
 }}

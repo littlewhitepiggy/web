@@ -6,4 +6,4 @@ Textbox_theme:imss;
 Game_Logo:workshop.jpg;
 Package_name:;
 Description:长崎素世中心同人游戏;
-Enable_Appreciation:true;
+Enable_Appreciation:false;
