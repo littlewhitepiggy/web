@@ -1,5 +1,5 @@
 :第一章：糖与魔女 -fontSize=default;
-:;
+: -next;
 changeBg:01糖与魔女/bg00693.png -next;
 setTransform:{"brightness":1} -target=bg-main -duration=500 -next
 bgm:01/market-town-of-turelli-135459.mp3 -volume=60 -enter=500 -unlockname=Market-Town-of-Turelli -next;
