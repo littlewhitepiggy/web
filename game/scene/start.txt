@@ -1,4 +1,4 @@
-changeBg:00序章/bg00732意识空白.png;
+changeBg:00序章/bg00732意识空白.png;小孩
 playEffect:00序章/science_fiction_laser_hypnotic_paralysing_beam.mp3 -volume=10 -id=电流1;
 ？？？:……数据分析完成…… -fontSize=default;
 ？？？:……场景生成完成…… -fontSize=default;
@@ -651,7 +651,7 @@ setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S2 -durati
 changeFigure:A2.png -right -id=A2 -transform={"position":{"x":-150,"y":80}} -next;
 千早爱音:哇，好帅的宝剑！;
 playEffect:01/warfare_medieval_sabre_swing_002.mp3 -next;
-:爱音咋咋呼呼地拿着宝剑一顿挥舞，像是刚拿到新玩具在炫耀的小屁孩。;
+:爱音拿着宝剑一顿挥舞，完全是刚拿到新玩具的小女孩。;
 changeFigure:none -id=A2 -next;
 changeFigure:A2开朗笑.png -right -id=A2k -transform={"brightness":1,"position":{"x":-150,"y":80}} -next;
 千早爱音:Soyorin快看，很酷吧，我可是骑士哦！;
@@ -1303,7 +1303,7 @@ setTransform:{"brightness":0.58,"position":{"x":0,"y":80}} -target=M2 -duration=
 changeFigure:A2开朗笑.png -right -id=A2k -transform={"position":{"y":80}} -next;
 千早爱音:哇，Soyorin，小睦，快看！好帅的宝剑！;
 playEffect:01/warfare_medieval_sabre_swing_002.mp3 -next;
-:爱音穿着华丽的服饰咋咋呼呼地跑过来，拿着剑一顿挥舞，像是刚拿到新玩具在炫耀的小屁孩。;
+:爱音穿着华丽的服饰跑过来，拿着剑一顿挥舞，完全是刚拿到新玩具的小女孩。;
 changeFigure:none -id=A2k -next;
 changeFigure:A2眯眼笑.png -right -id=A2m -transform={"brightness":1,"position":{"y":80}} -next;
 千早爱音:Soyorin快看，很酷吧，我可是骑士哦！;

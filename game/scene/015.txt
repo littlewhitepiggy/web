@@ -179,6 +179,7 @@ playEffect:015/荆棘移动.mp3 -id=荆棘移动;
 :随着小睦的话，荆棘丛自动挪向了营地边缘，尖刺转向外侧，形成了一道天然的屏障。;
 playEffect:none -id=荆棘移动;
 若叶睦:它们说……可以保护我们。
+若叶睦:晚上，就不用担心了。
 若叶睦:像刺猬先生的外壳一样。
 setTransform:{"brightness":0.58,"position":{"x":270,"y":80}} -target=M2 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=S2t -duration=0 -next;
@@ -1634,10 +1635,16 @@ setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=
 setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 :太清楚她在指哪件事，立希的眉毛拧紧。;
-椎名立希:你在找茬吗？;
+椎名立希:哼，记忆力还真好。 
 setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-长崎素世:实话实说而已哦。
+长崎素世:和小立希的每一件事，我都记得清清楚楚哦。
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+椎名立希:……随便你。
+setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
+setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+:素世轻轻笑了起来。
 长崎素世:那么，为什么？
 setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
@@ -1647,7 +1654,7 @@ setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=
 长崎素世:有什么需要专门跑到月之森来说的事情吗？
 setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
-椎名立希:还不是因为有的人翘了三天份的练习，居然还有脸问。;
+椎名立希:翘了三天份的练习，还在这装糊涂？;
 setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:感冒啦……我不是在群里说了吗？
@@ -1666,14 +1673,14 @@ setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=
 setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 :对方沉默着，似乎在纠结什么心事，漂亮的紫瞳不自觉下垂，躲避队友的探询。;
-椎名立希:额、那个、;
-椎名立希:先声明我绝对没有别的意思。;
+椎名立希:那个、;
+椎名立希:我绝对没有别的意思。;
 setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 长崎素世:哎，怎么了吗？
 setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
-椎名立希:不会又是什么事惹你伤心了吧……;
+椎名立希:你、不会是……不会是什么事又惹你伤心了吧……;
 :她压低声音，甚至不自然地攥紧掌心。;
 setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
@@ -1717,18 +1724,18 @@ setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=
 长崎素世:（哎，这么好？）
 setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
-椎名立希:可以给你推荐好的心理服务中心，我姐姐的同学期末周好像经常去……哎哟！;
+椎名立希:可以给你推荐心理咨询，我姐姐的同学在期末周崩溃的时候就会去，你要记下联系方式吗？;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-:素世毫不留情地踩在她的脚上。立希快蹦起来了。;
-:在她真要发火前，那双幽幽的蓝眼睛却扫过来了。;
+:幽深的蓝眸眨也不眨，直直地盯着她，立希不解地皱起眉毛。;
 setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
-长崎素世:小立希说什么呢。
+:在她表达困惑之前，素世没忍住，无奈地笑了出来。;
 长崎素世:亏我还期待了一分钟。
+长崎素世:原来是想把我丢给别人。
 setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
-椎名立希:我又不是专业的！当然要交给专业人士处理！;
+椎名立希:这种事情……当然要交给专业人士处理！;
 :话是这么说，紫眸却不自在地别过去。;
-椎名立希:额，如果你很需要，那再说吧。;
+椎名立希:……如果你很需要，那再说吧。;
 椎名立希:毕竟这是队友的职责。;
 setTransform:{"brightness":0.55,"position":{"x":400,"y":80}} -target=X1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
@@ -1843,140 +1850,141 @@ setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2 -duration=0 -nex
 :周围的景色随着记忆倒退，空间变形、坍缩，凝聚为遥远的午后。;
 :;
 changeFigure:none -id=S2 -next;
-changeBg:间章/bg01111.png;
-playEffect:015/雨.MP3 -id=rain -next;
-:（Ring的休息室）;
-changeFigure:S1_normal.png -id=S1 -transform={"brightness":0.55,"position":{"x":-400,"y":80}} -next;
-changeFigure:D1.png -right -id=D1 -transform={"brightness":0.55,"position":{"y":80}} -next;
-:立希和爱音在前台讨论舞台效果的问题，乐奈又不知道哪里去了，休息室里只有素世和灯。;
-:灯趴在地上，用蜡笔在笔记本上涂涂画画，这是她寻找歌词灵感的独特方式。;
-setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-:素世则是在思考刚刚出错的和弦。;
-长崎素世:（真是的，今天状态不太好，是下雨的原因吗？）
-长崎素世:（一直出错，给大家添麻烦了呢。）
-长崎素世:（回家再练练吧，也到时间了。）
-长崎素世:小灯，我先走了，麻烦你和小立希她们说一下。
+changeBg:间章/Ring门口.jpg;
+:（Ring门口。）
+changeFigure:S1_normal.png -id=S1 -transform={"brightness":1,"position":{"y":80}} -next;
+长崎素世:……
+长崎素世:（今天来早了呢，大家居然都还没到。）
+长崎素世:（先去喝杯红茶吧。）
+:看到路边的广告牌，她情不自禁停下脚步。
+长崎素世:这是……
 setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"y":80}} -target=D1 -duration=0 -next;
-:大概是雨声喧闹又心不在焉，灯一开始并没有听清她的声音。;
-playEffect: -id=rain -next;
-高松灯:（小素世……刚刚说什么？）;
-高松灯:（不开心的表情，还要走，难道……）;
-高松灯:（！）;
-高松灯:不要走！！！;
-:在素世的指尖触及门把前，灯用力地扑上来，把她紧紧抱住。;
+changeFigure:D1.png -right -id=D1 -transform={"brightness":1,"position":{"y":80}} -next;
+高松灯:小素世？怎么了吗？
 setTransform:{"brightness":0.55,"position":{"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-长崎素世:哎？
+:身侧突然冒出一个灰色小企鹅，让长崎素世下意识紧张起来。
+长崎素世:是小灯啊。
+长崎素世:没什么，大家还没来，我们先进去坐着吧。
+长崎素世:小灯想喝什么饮料呢？
 setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=D1 -duration=0 -next;
-高松灯:不要走！小素世！;
-高松灯:说好了一辈子，不能走！;
-:她扣住素世身体的双掌是那么用力，以至于素世都感到有点痛了。;
-:比起这个，更伤脑筋的是，灯好像一副快哭出来的表情。;
+:她有意识地挡在灯的身前，对方眨眨眼睛，微微歪了脑袋。
+高松灯:「欢迎来到Ave Mujica的世界」……？
 setTransform:{"brightness":0.55,"position":{"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-长崎素世:小灯，冷静下来。
+长崎素世:（还是看见了啊……）
+长崎素世:经历了很多事情，终于打算重新办巡演了呢。
 setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=D1 -duration=0 -next;
-高松灯:不能走……;
+高松灯:能组回乐队……真好呢。
 setTransform:{"brightness":0.55,"position":{"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-长崎素世:真是的，我只是想先回家啦，不是要离开Mygo。
-:她转过身，轻轻抚摸着灯的后脑，指尖下移，安抚对方因紧张而弓直的脊背。;
+长崎素世:不过，问题还很多就是了。
 setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=D1 -duration=0 -next;
-高松灯:……;
-:对方什么也没说，只是把脑袋贴在她身上，随着彼此的呼吸和心跳一起颤抖。;
+:灯担忧地揪紧衣角。
+高松灯:唔……
 setTransform:{"brightness":0.55,"position":{"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-长崎素世:是真的哦，不会走的。
-长崎素世:（这个眼神……好难拒绝。）
+长崎素世:也许，她们只是和我们一样迷路了呢。
+长崎素世:比起那个，我们还是进……
 setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=D1 -duration=0 -next;
-高松灯:约定了一辈子……;
+高松灯:我们，之前也是这样。
+高松灯:现在也许还在迷路「Mygo」。
+高松灯:我和小素世，还有大家……
 setTransform:{"brightness":0.55,"position":{"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-长崎素世:嗯，会守约的，小灯不信任我吗？
-长崎素世:好伤心哦……
+长崎素世:……嗯。
+长崎素世:（又被看穿了吗？）
+长崎素世:（真敏锐呢，小灯。）
 setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=D1 -duration=0 -next;
-:明明只是想逗一下对方，灯却惶恐地道起歉来。;
-高松灯:小素世，对不起，我不是……;
+高松灯:但是，不一样。
 setTransform:{"brightness":0.55,"position":{"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-长崎素世:（好像逗过头了……千万别给小立希看到了。）
-长崎素世:没有怪小灯啦……小灯？
+长崎素世:什么不一样呢？
+setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+setTransform:{"brightness":1,"position":{"y":80}} -target=D1 -duration=0 -next;
+:午后的日影微微偏移，灯低头，轻轻握住素世的尾指。
+setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+高松灯:之前……是为了五个人在唱歌。
+高松灯:现在，想带着小祥和Ave Mujica的份一起。
+高松灯:如果能传达到的话，就太好了。
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=D1 -duration=0 -next;
+setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
+长崎素世:……
+长崎素世:嗯。
+长崎素世:还真是小灯会说出来的话呢。
+长崎素世:（即使迷惘，也要前进……）
+长崎素世:（不会放弃彼此的乐队，也许大家都一样呢。）
+长崎素世:我一直都很羡慕小灯的这一点呢。
 setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=D1 -duration=0 -next;
-:灯拉起她的手，用尽全力勾起她的小指。;
-高松灯:（我居然不信任小素世……约定被我破坏了！）;
-高松灯:一辈子，再缔结一次。;
+高松灯:素世也一起……
 setTransform:{"brightness":0.55,"position":{"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-长崎素世:哎？我真的没有在怪小灯啦，我……
+长崎素世:嗯，我会和你一样，带着Ave Mujica的份弹贝斯哦。
+长崎素世:（……会吧？）
+长崎素世:不过，我还以为，小灯会被这张海报吓到呢。
+长崎素世:这期好像是什么恐怖主题……真是的，不知道在想什么。
+长崎素世:时间也差不多了，那我们就……
 setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=D1 -duration=0 -next;
-高松灯:小素世，不愿意吗？;
-:对方耷拉着脑袋，素世感到一阵不忍。灯就是乐队的心脏，如果她不高兴，所有人都会一起伤心。;
+高松灯:一起去看吧。
 setTransform:{"brightness":0.55,"position":{"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-长崎素世:好啦好啦，那再约定一次。
-长崎素世:拉勾，我会和小灯组一辈子乐队哦。说谎的人要吞……
+长崎素世:唉？
 setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=D1 -duration=0 -next;
-高松灯:小素世不用吞银针！;
+高松灯:Ave Mujica的Live。想看。
 setTransform:{"brightness":0.55,"position":{"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-长崎素世:（没有惩罚的誓言呢，这样真的好吗？）
-长崎素世:（不过……）
-长崎素世:（如果让小灯露出刚才那样的表情，对我而言就是最大的惩罚了吧。）
-长崎素世:约定好了吧？那么，我就先回……
+长崎素世:可以是可以啦，但是这一场……
 setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=D1 -duration=0 -next;
-高松灯:还有这个！也要！;
-:高松灯从地上揪起笔记本，给她指上面的画。;
+:灯用食指轻轻戳着海报上的Doloris，华丽的蕾丝前襟上镶嵌着一块漂亮的水晶石。
+高松灯:好漂亮……
 setTransform:{"brightness":0.55,"position":{"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-长崎素世:我们五个人吗？真可爱。
-长崎素世:「一辈子宣言署名处」？这是？
+长崎素世:（完了、）
+长崎素世:哈哈，要不下一场吧？这一场在周六，时间有点……
+千早爱音:咦，有谁在说悄悄话？
+千早爱音:Soyorin，周六总算有空了吧！陪我去玩！
+长崎素世:……
 setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"y":80}} -target=D1 -duration=0 -next;
-高松灯:那个、上课时，老师说这样约定更有用……;
+高松灯:小爱，要一起来吗？
+千早爱音:哇，Ave Mujica的Live，要来要来！
+千早爱音:这样干脆把Rikki和小乐奈也叫上吧，一定会很有趣的！
+高松灯:嗯，大家也一起。
 setTransform:{"brightness":0.55,"position":{"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-长崎素世:（……那是指法律合同吧！）
-长崎素世:（但是、）
-长崎素世:好哦，我签。
-长崎素世:（只要小灯能安心。）
-:她接过灯递来的蜡笔，在已经署上的"高松灯"旁，仔仔细细添上"长崎素世"的名字。;
-长崎素世:这样就可以了吧，嗯？
+长崎素世:我可没有同意。
+千早爱音:嘻嘻……Soyorin有点怕鬼啦。
+长崎素世:才不是！只是上次——
+千早爱音:嗯嗯，上次大家一起看恐怖片时留下阴影了吧。那部片叫什么来着……「失落的宝石」？
+:看着海报设计的主题，爱音忍不住轻笑起来。
+千早爱音:噗……Soyorin不会怕这种东西吧，再怎么说也只是片场道具。
+长崎素世:才没有！
 setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-:灯抱着那个笔记本，双眼闪闪发光。素世忍不住又摸摸她的头顶。;
-setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-长崎素世:那我就……
-setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-千早爱音:哇，你们在说什么悄悄话！
-:大门突然开启，一个过于活泼的身影蹦进来，素世叹了口气。;
 setTransform:{"brightness":1,"position":{"y":80}} -target=D1 -duration=0 -next;
-高松灯:小爱……;
-setTransform:{"brightness":0.55,"position":{"y":80}} -target=D1 -duration=0 -next;
-setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-长崎素世:（走不了了……）
-长崎素世:在签卖身契哦。
+高松灯:我会握住小素世的手，不会有鬼的。
+千早爱音:哎，很好呢，电影里的主角就像这样握着手，结果一转身就……哎？怎么走了！
+长崎素世:真是的，我看还不行吗？
+长崎素世:我现在要和小灯一起喝饮料去了。
 setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-千早爱音:这么好玩，Tomorin，也给我一只蜡笔！
 setTransform:{"brightness":1,"position":{"y":80}} -target=D1 -duration=0 -next;
-高松灯:嗯！;
-:两个小脑袋凑在一起，叽叽喳喳地聊起素世听不清的话题。;
+高松灯:嗯！保护小素世！
+:她紧紧捏住素世的掌心，仿佛用尽了全身的力气来守护这个约定。
 setTransform:{"brightness":0.55,"position":{"y":80}} -target=D1 -duration=0 -next;
 setTransform:{"brightness":1,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-长崎素世:（到底谁和谁说悄悄话啊！）
-长崎素世:（但是……）
-长崎素世:（这样也不错就是了。）
-:她轻抚尾指，那儿似乎还残留着高松灯情感的热度。;
-setTransform:{"brightness":0.55,"position":{"x":-400,"y":80}} -target=S1 -duration=0 -next;
-:;
+长崎素世:倒也不用现在就……
+:长崎素世轻蜷尾指，高松灯情感的热度将她裹紧。
+长崎素世:（但是……这样也不错就是了。）
+setTransform:{"brightness":1,"position":{"y":80}} -target=D1 -duration=0 -next;
+:贝斯手就这样轻轻牵住主唱，一步一步向未来走去。
 changeFigure:none -id=S1 -next;
 changeFigure:none -id=D1 -next;
 changeBg:间章/bg019f.jpg;
@@ -1993,7 +2001,7 @@ changeFigure:S2.png -id=S2 -transform={"brightness":1,"position":{"y":80}} -next
 长崎素世:（不要再想那些没结果的事了，回去睡觉吧。）
 长崎素世:已经不用再迷惘了，因为……
 长崎素世:（无论如何都不会放开我的人……）
-长崎素世:（和我缔结一辈子约定的人……）
+长崎素世:（和我缔结约定的人……）
 长崎素世:（就连我的指尖发冷都会注意到，然后拼命握住我的人……）
 changeFigure:none -id=S2 -next;
 changeFigure:S2笑.png -id=S2x -transform={"brightness":1,"position":{"y":80}} -next;
