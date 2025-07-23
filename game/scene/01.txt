@@ -2068,9 +2068,28 @@ changeFigure:none -id=M2shy -next;
 changeFigure:M2.png  -left -id=M2 -transform={"brightness":0.58,"position":{"y":80}} -next;
 changeFigure:A2开朗笑.png -right -id=A2k -transform={"brightness":1,"position":{"y":80}} -next;
 千早爱音:哼哼，我当然是没什么事啦。;
-:爱音悄咪咪地朝小睦那边瞄了一眼。;
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2k -duration=0 -next;
+setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
+长崎素世:是吗……
+长崎素世:那为什么感觉你的表情有点别扭？
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2 -duration=0 -next;
 changeFigure:none -id=A2k -next;
 changeFigure:A2.png -right -id=A2 -transform={"brightness":1,"position":{"y":80}} -next;
+千早爱音:啊哈哈，没有吧。
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2 -duration=0 -next;
+setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
+长崎素世:真是的，这种时候还……是腿受伤了吧。
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
+千早爱音:唔，一点点啦。
+千早爱音:游戏里恢复速度好像蛮快的，虽然伤口还在，但已经不怎么痛了。
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2 -duration=0 -next;
+setTransform:{"brightness":1,"position":{"y":80}} -target=S2 -duration=0 -next;
+长崎素世:就算这么说……还是简单包扎下吧。
+长崎素世:小心点，别乱动。
+setTransform:{"brightness":0.55,"position":{"y":80}} -target=S2 -duration=0 -next;
+setTransform:{"brightness":1,"position":{"y":80}} -target=A2 -duration=0 -next;
+:在包扎的间隙，爱音悄悄朝小睦那边瞄了一眼。;
 千早爱音:……小睦，没事了吧？;
 setTransform:{"brightness":0.55,"position":{"y":80}} -target=A2 -duration=0 -next;
 changeFigure:none -id=S2 -next;
